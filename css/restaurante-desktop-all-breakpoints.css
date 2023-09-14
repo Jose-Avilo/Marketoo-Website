@@ -1,0 +1,3771 @@
+/* screen - restaurante-desktop-all-breakpoints */
+
+.restaurante-desktop-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6664.65px;
+  overflow: hidden;
+  width: 1281px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group5 {
+  height: 6583px;
+  margin-left: -15px;
+  margin-top: 95px;
+  position: relative;
+  width: 1311px;
+  z-index: 1;
+}
+
+.restaurante-desktop-all-breakpoints .rectngulo-140 {
+  background-color: var(--black);
+  height: 6583px;
+  left: 15px;
+  position: absolute;
+  top: 0;
+  width: 1281px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-261 {
+  background-image: url(../img/grupo-260@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1457px;
+  left: 2px;
+  position: absolute;
+  top: 2856px;
+  width: 1307px;
+}
+
+.restaurante-desktop-all-breakpoints .rectngulo-144 {
+  background-color: var(--white);
+  border-radius: 27.16px;
+  height: 1184px;
+  left: 121px;
+  position: absolute;
+  top: 2963px;
+  width: 1069px;
+}
+
+.restaurante-desktop-all-breakpoints .encuentra-nuevas-posibilidades {
+  color: var(--black);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 80px;
+  height: 278px;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 2975px;
+  width: 936px;
+}
+
+.restaurante-desktop-all-breakpoints .marketoo-es-la-forma {
+  height: 112px;
+  left: 186px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 3196px;
+  width: 941px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-262 {
+  display: flex;
+  height: 18px;
+  justify-content: space-between;
+  left: 631px;
+  position: absolute;
+  top: 4063px;
+  width: 49px;
+}
+
+.restaurante-desktop-all-breakpoints .elipse-32 {
+  background-color: var(--guardsman-red);
+  border-radius: 8.84px;
+  margin-bottom: 0;
+  width: 17.68px;
+}
+
+.restaurante-desktop-all-breakpoints .elipse-33 {
+  background-color: var(--guardsman-red);
+  border-radius: 8.84px;
+  margin-bottom: 0;
+  margin-right: 0;
+  opacity: 0.5;
+  width: 17.68px;
+}
+
+.restaurante-desktop-all-breakpoints .aprovecha-los-benefi {
+  height: 159px;
+  left: 132px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 5905px;
+  width: 1049px;
+}
+
+.restaurante-desktop-all-breakpoints .la-herramienta-ms-a {
+  height: 200px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 33px;
+  width: 1053px;
+}
+
+.restaurante-desktop-all-breakpoints .usa-marketoo-para-re {
+  height: 391px;
+  left: 113px;
+  letter-spacing: 0;
+  line-height: 60.1px;
+  position: absolute;
+  text-align: center;
+  top: 1070px;
+  width: 1087px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-287 {
+  background-image: url(../img/layer-0@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 733px;
+  left: 0;
+  position: absolute;
+  top: 251px;
+  width: 1311px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-287 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-287 img {
+  object-fit: cover;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-291 {
+  display: flex;
+  height: 28px;
+  left: 643px;
+  position: absolute;
+  top: 1499px;
+  width: 26px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-290 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 25.53px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-container {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-14 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-14-1 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-container-1 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.restaurante-desktop-all-breakpoints .enfcate-en-crear {
+  height: 155px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 1589px;
+  width: 1076px;
+}
+
+.restaurante-desktop-all-breakpoints .controla-y-simplific {
+  height: 314px;
+  left: 107px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 2505px;
+  width: 1099px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-21::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-21 {
+  align-items: flex-start;
+  gap: 18px;
+  height: 832px;
+  left: 15px;
+  min-width: 1281px;
+  overflow-x: scroll;
+  top: 4683px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group2 {
+  border-radius: 18.1px;
+  flex: 0 0 auto;
+  height: 832px;
+  position: relative;
+  width: 538px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-297 {
+  align-items: flex-start;
+  background-color: var(--quick-silver);
+  border-radius: 18.1px;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 832px;
+  padding: 65.0px 51.1px;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-296 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 12px;
+  height: 443px;
+  margin-top: 18px;
+  min-width: 432px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-container-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 74px;
+  margin-left: -4px;
+  margin-top: 11.66px;
+  min-height: 112px;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-1 {
+  height: 19px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .mdulo-de-pedidos-co {
+  height: 445px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 401px;
+}
+
+.restaurante-desktop-all-breakpoints .usd-25 {
+  margin-left: 4.09px;
+  margin-top: 27px;
+  width: 262px;
+}
+
+.restaurante-desktop-all-breakpoints .mes-por-restaurantesin-impuestos {
+  height: 100px;
+  left: 57px;
+  letter-spacing: 0;
+  line-height: 35.9px;
+  position: absolute;
+  top: 716px;
+  width: 353px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-295 {
+  align-items: flex-start;
+  background-color: var(--guardsman-red);
+  border-radius: 18.1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 832px;
+  padding: 17.1px 53.8px;
+  width: 538px;
+}
+
+.restaurante-desktop-all-breakpoints .estndar {
+  letter-spacing: 0;
+  line-height: 64.8px;
+  margin-left: 2.0px;
+  margin-top: 49px;
+  min-height: 67px;
+  white-space: nowrap;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-294 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  height: 469px;
+  margin-top: 16px;
+  min-width: 428px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -4px;
+  margin-top: 12.71px;
+  min-height: 388px;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-157 {
+  height: 19px;
+  margin-top: 73px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-15 {
+  height: 19px;
+  margin-top: 72px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-159 {
+  height: 19px;
+  margin-top: 29px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-160 {
+  height: 19px;
+  margin-top: 118px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .ciclo-de-abastecimie {
+  height: 471px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 395px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group1 {
+  height: 194px;
+  margin-left: 2.0px;
+  margin-top: 3px;
+  position: relative;
+  width: 353px;
+}
+
+.restaurante-desktop-all-breakpoints .usd-49 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 281px;
+}
+
+.restaurante-desktop-all-breakpoints .mes-por-restaurantesin-impuestos-1 {
+  top: 95px;
+  width: 353px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-293 {
+  align-items: flex-start;
+  background-color: var(--quick-silver);
+  border-radius: 18.1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 832px;
+  padding: 17.1px 62.4px;
+  width: 538px;
+}
+
+.restaurante-desktop-all-breakpoints .premium {
+  letter-spacing: 0;
+  line-height: 64.8px;
+  margin-left: 2.0px;
+  margin-top: 50px;
+  min-height: 67px;
+  white-space: nowrap;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group {
+  align-self: flex-end;
+  height: 666px;
+  position: relative;
+  width: 411px;
+}
+
+.restaurante-desktop-all-breakpoints .usd-69 {
+  left: 0;
+  position: absolute;
+  top: 472px;
+  width: 266px;
+}
+
+.restaurante-desktop-all-breakpoints .mes-por-restaurantesin-impuestos-2 {
+  top: 566px;
+  width: 343px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-292 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 487px;
+  left: 0;
+  min-width: 411px;
+  position: absolute;
+  top: 0;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -4px;
+  margin-top: 12.71px;
+  min-height: 340px;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-152 {
+  height: 19px;
+  margin-top: 71px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-154 {
+  height: 19px;
+  margin-top: 120px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .todas-las-funcionali {
+  height: 489px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 383px;
+}
+
+.restaurante-desktop-all-breakpoints .pon-tus-rdenes-en-orden {
+  height: 322px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 4416px;
+  width: 968px;
+}
+
+.restaurante-desktop-all-breakpoints .muy-ocupado-atendie {
+  height: 272px;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 5637px;
+  width: 1073px;
+}
+
+.restaurante-desktop-all-breakpoints .boton-contacto {
+  display: flex;
+  height: 92px;
+  left: 480px;
+  position: absolute;
+  top: 4188px;
+  width: 351px;
+}
+
+.restaurante-desktop-all-breakpoints .enmascarar-grupo-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 351.43px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group1-1 {
+  height: 114px;
+  margin-top: -21.89px;
+  position: relative;
+  width: 351px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-1 {
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 351px;
+}
+
+.restaurante-desktop-all-breakpoints .rectngulo-156 {
+  background-color: var(--science-blue);
+  border-radius: 27.46px;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 351px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-299 {
+  align-items: flex-start;
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  display: flex;
+  height: 92px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 351px;
+  padding: 0 6.4px;
+  position: absolute;
+  top: 22px;
+}
+
+.restaurante-desktop-all-breakpoints .contctanos {
+  letter-spacing: 0;
+  line-height: 101.9px;
+  margin-top: -22.59px;
+  min-height: 69px;
+  text-align: center;
+  white-space: nowrap;
+  width: 337px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-300 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 18px;
+  left: 568px;
+  min-width: 175px;
+  position: absolute;
+  top: 2444px;
+}
+
+.restaurante-desktop-all-breakpoints .elipse-3 {
+  background-color: var(--gray);
+  border-radius: 8.84px;
+  height: 18px;
+  width: 18px;
+}
+
+.restaurante-desktop-all-breakpoints .elipse {
+  background-color: var(--white);
+  border-radius: 8.84px;
+  height: 18px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-301 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 615px;
+  min-width: 82px;
+  position: absolute;
+  top: 5556px;
+}
+
+.restaurante-desktop-all-breakpoints .elipse-39 {
+  background-color: var(--white);
+  border-radius: 8.84px;
+  height: 18px;
+  margin-left: 15px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-5::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-5 {
+  align-items: flex-start;
+  height: 605px;
+  left: 78px;
+  min-width: 1162px;
+  overflow-x: scroll;
+  top: 1757px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-pedidos-rapidos-y-confiables {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-98-1 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-171-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565.0px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 7.9px 112.6px;
+}
+
+.restaurante-desktop-all-breakpoints .pedidos-rpidos-y-confiables {
+  height: 117px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 333px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-reduce-errores-y-desperdicios {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-99-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-319@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 9.3px 110.4px;
+}
+
+.restaurante-desktop-all-breakpoints .reduce-errores-y-desperdicios {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 335px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-100-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-308@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 41.3px 152.8px;
+}
+
+.restaurante-desktop-all-breakpoints .ahorra-tiempo {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 258px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-101-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-311-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 26.1px 113.9px;
+}
+
+.restaurante-desktop-all-breakpoints .rene-al-equipo {
+  height: 81px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 335px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-102-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-314-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565.01px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 16.8px 113.2px;
+}
+
+.restaurante-desktop-all-breakpoints .sincronzate-con-la-cadena {
+  height: 115px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-103-1 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-169-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565.0px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-7 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 14.3px 111.2px;
+}
+
+.restaurante-desktop-all-breakpoints .no-ms-post-its-en-tu-cocina {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-19::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento-19 {
+  align-items: flex-end;
+  height: 677px;
+  justify-content: flex-end;
+  left: 191px;
+  min-width: 929px;
+  overflow: scroll;
+  padding: 0.2px 0;
+  top: 3329px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-282 {
+  display: flex;
+  height: 665px;
+  justify-content: space-between;
+  width: 1487px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-274 {
+  align-items: flex-start;
+  display: flex;
+  gap: 25px;
+  margin-bottom: 2.0px;
+  min-width: 707.71px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 51px;
+  margin-top: 0;
+  min-height: 663px;
+  width: 306px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-269 {
+  background-image: url(../img/grupo-268@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 306px;
+  width: 306px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-272 {
+  background-image: url(../img/grupo-271@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 306px;
+  margin-left: 0;
+  width: 306px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-container-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 95px;
+  margin-top: 4.09px;
+  min-height: 558px;
+  width: 379px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-8 {
+  height: 258px;
+  position: relative;
+  width: 379px;
+}
+
+.restaurante-desktop-all-breakpoints .explora-las-propues {
+  height: 207px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  position: absolute;
+  top: 51px;
+  width: 378px;
+}
+
+.restaurante-desktop-all-breakpoints .accede-a-ms-proveedores {
+  height: 87px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  top: 0;
+  width: 379px;
+}
+
+.restaurante-desktop-all-breakpoints .encuentra-l-container {
+  height: 205px;
+  position: relative;
+  width: 366px;
+}
+
+.restaurante-desktop-all-breakpoints .encuentra-las-materi {
+  height: 114px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  position: absolute;
+  top: 92px;
+  width: 366px;
+}
+
+.restaurante-desktop-all-breakpoints .encuentra-los-productos-que-buscas {
+  height: 93px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.restaurante-desktop-all-breakpoints .span1 {
+  color: var(--black);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: 26.2px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-281 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 2.0px;
+  width: 694.83px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-277 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 25px;
+  height: 306.08px;
+  margin-left: 0;
+  max-height: 306.08px;
+  min-width: 100%;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-276 {
+  background-image: url(../img/grupo-275@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 306px;
+  margin-top: 0;
+  width: 306px;
+}
+
+.restaurante-desktop-all-breakpoints .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-bottom: 8.72px;
+  min-height: 246px;
+  width: 366px;
+}
+
+.restaurante-desktop-all-breakpoints .referencias-del-proveedor {
+  height: 92px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  width: 366px;
+}
+
+.restaurante-desktop-all-breakpoints .valida-la-calidad-de {
+  height: 151px;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  width: 346px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-280 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 25px;
+  height: 306.08px;
+  margin-right: 15.9px;
+  max-height: 306.08px;
+  min-width: calc(100.00% - 16px);
+}
+
+.restaurante-desktop-all-breakpoints .grupo-279 {
+  background-image: url(../img/grupo-278@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 306px;
+  margin-top: 0;
+  width: 306px;
+}
+
+.restaurante-desktop-all-breakpoints .flex-col-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-top: 16.28px;
+  min-height: 234px;
+  width: 350px;
+}
+
+.restaurante-desktop-all-breakpoints .tu-estrategia-financiera {
+  height: 89px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  width: 350px;
+}
+
+.restaurante-desktop-all-breakpoints .realiza-tus-negociac {
+  height: 142px;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  width: 346px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-585 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 311px;
+  left: 35px;
+  min-width: 1242px;
+  padding: 0.0px 236px;
+  position: absolute;
+  top: 6129px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group3 {
+  background-color: var(--nobel);
+  border-radius: 100px 100px 0px 0px;
+  height: 271px;
+  position: relative;
+  width: 769px;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group-9 {
+  height: 271px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 717px;
+}
+
+.restaurante-desktop-all-breakpoints .componente-157-12 {
+  display: flex;
+  flex: 1;
+  width: 345.52px;
+}
+
+.restaurante-desktop-all-breakpoints .formulario {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 113px;
+  left: 66px;
+  min-width: 637px;
+  padding: 0.0px 155.7px;
+  position: absolute;
+  top: 104px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-617 {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  left: 350px;
+  min-width: 613px;
+  position: absolute;
+  top: 6477px;
+}
+
+.restaurante-desktop-all-breakpoints .text-3 {
+  margin-left: 30px;
+  margin-top: -0.01px;
+}
+
+.restaurante-desktop-all-breakpoints .text-4 {
+  margin-left: 33px;
+  margin-top: -3.01px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-544 {
+  align-items: flex-start;
+  display: flex;
+  height: 95px;
+  left: 0;
+  min-width: 1280px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.restaurante-desktop-all-breakpoints .overlap-group4 {
+  height: 95px;
+  position: relative;
+  width: 1280px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-546 {
+  background-color: var(--black);
+  display: flex;
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1280px;
+}
+
+.restaurante-desktop-all-breakpoints .restaurante-tablet-vinculo-a-home {
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 21.6px;
+  margin-left: 65.1px;
+  margin-top: 22.6px;
+  transition: all 0.2s ease;
+  width: 307.79px;
+}
+
+.restaurante-desktop-all-breakpoints .restaurante-tablet-vinculo-a-home:hover {
+  transform: scale(1.1);
+}
+
+.restaurante-desktop-all-breakpoints .grupo-26 {
+  display: flex;
+  flex: 1;
+  width: 307.79px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-263 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  min-width: 307.79px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-136 {
+  height: 48px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 47px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-137 {
+  height: 48px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 41px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-138 {
+  height: 48px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 35px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-139 {
+  height: 48px;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-140 {
+  height: 48px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-141 {
+  height: 48px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-14-2 {
+  height: 51px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 34px;
+}
+
+.restaurante-desktop-all-breakpoints .trazado-280 {
+  height: 65px;
+  left: 607px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 66px;
+}
+
+.restaurante-desktop-all-breakpoints .home-desktop-vinculo-a-restaurantes {
+  height: 33px;
+  left: 764px;
+  width: 159px;
+}
+
+.restaurante-desktop-all-breakpoints .home-desktop-vinculo-a-proveedores {
+  cursor: pointer;
+  height: 58px;
+  left: 950px;
+  width: 145px;
+}
+
+.restaurante-desktop-all-breakpoints .home-desktop-vinculo-a-productos {
+  cursor: pointer;
+  height: 58px;
+  left: 1124px;
+  width: 119px;
+}
+
+.restaurante-desktop-all-breakpoints .grupo-de-desplazamiento {
+  display: flex;
+  position: absolute;
+}
+
+.restaurante-desktop-all-breakpoints .home-desktop-vinculo-a {
+  display: flex;
+  position: absolute;
+  top: 32px;
+}
+
+.restaurante-desktop-all-breakpoints .mes-por-restaurantesin-impuestos-3 {
+  height: 100px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 35.9px;
+  position: absolute;
+}
+
+.restaurante-desktop-all-breakpoints .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 42px;
+  min-width: 20px;
+  white-space: nowrap;
+}
+
+.restaurante-desktop-all-breakpoints .usd {
+  height: 137px;
+  letter-spacing: 0;
+  line-height: 95.5px;
+}
+/* screen - restaurante-tablet */
+
+.restaurante-tablet {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6605.65px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.restaurante-tablet .overlap-group5-1 {
+  height: 6511px;
+  margin-left: -269px;
+  margin-top: 95px;
+  position: relative;
+  width: 1307px;
+  z-index: 1;
+}
+
+.restaurante-tablet .trazado-295 {
+  height: 6511px;
+  left: 269px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 768px;
+}
+
+.restaurante-tablet .grupo-261-1 {
+  background-image: url(../img/grupo-260-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1457px;
+  left: 0;
+  position: absolute;
+  top: 2856px;
+  width: 1307px;
+}
+
+.restaurante-tablet .rectngulo-144-1 {
+  background-color: var(--white);
+  border-radius: 27.16px;
+  height: 1184px;
+  left: 317px;
+  position: absolute;
+  top: 2965px;
+  width: 674px;
+}
+
+.restaurante-tablet .encuentra-nuevas-posibilidades-1 {
+  color: var(--black);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 70px;
+  height: 278px;
+  left: 349px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 2997px;
+  width: 936px;
+}
+
+.restaurante-tablet .marketoo-es-la-forma-1 {
+  color: var(--black);
+  font-family: var(--font-family-sfprorounded-regular);
+  font-size: var(--font-size-xs);
+  height: 132px;
+  left: 349px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  top: 3188px;
+  width: 620px;
+}
+
+.restaurante-tablet .grupo-262-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 597px;
+  min-width: 111px;
+  position: absolute;
+  top: 4063px;
+}
+
+.restaurante-tablet .elipse-32-1 {
+  background-color: var(--guardsman-red);
+  border-radius: 8.84px;
+  height: 18px;
+  width: 18px;
+}
+
+.restaurante-tablet .elipse-33-1 {
+  background-color: var(--guardsman-red);
+  border-radius: 8.84px;
+  height: 18px;
+  margin-left: 14px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-tablet .elipse-5 {
+  background-color: var(--guardsman-red);
+  margin-left: 13px;
+}
+
+.restaurante-tablet .aprovecha-los-benefi-1 {
+  height: 159px;
+  left: 288px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 5966px;
+  width: 732px;
+}
+
+.restaurante-tablet .la-herramienta-ms-a-1 {
+  height: 328px;
+  left: 332px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 33px;
+  width: 668px;
+}
+
+.restaurante-tablet .usa-marketoo-para-re-1 {
+  height: 598px;
+  left: 320px;
+  letter-spacing: 0;
+  line-height: 60.1px;
+  position: absolute;
+  text-align: center;
+  top: 848px;
+  width: 680px;
+}
+
+.restaurante-tablet .grupo-287-1 {
+  background-image: url(../img/layer-0-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 439px;
+  left: 261px;
+  position: absolute;
+  top: 345px;
+  width: 785px;
+}
+
+.restaurante-tablet .grupo-287-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.restaurante-tablet .grupo-287-1 img {
+  object-fit: cover;
+}
+
+.restaurante-tablet .grupo-291-1 {
+  display: flex;
+  height: 28px;
+  left: 640px;
+  position: absolute;
+  top: 1400px;
+  width: 26px;
+}
+
+.restaurante-tablet .grupo-290-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 25.53px;
+}
+
+.restaurante-tablet .overlap-group-container-2 {
+  height: 28px;
+  margin-top: 0;
+  position: relative;
+  width: 26px;
+}
+
+.restaurante-tablet .trazado-container-5 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+
+.restaurante-tablet .trazado-14-3 {
+  height: 17px;
+  top: 1px;
+  width: 25px;
+}
+
+.restaurante-tablet .trazado-14-4 {
+  height: 18px;
+  top: 0;
+  width: 26px;
+}
+
+.restaurante-tablet .trazado-container-6 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.restaurante-tablet .enfcate-en-crear-1 {
+  height: 252px;
+  left: 332px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 1492px;
+  width: 668px;
+}
+
+.restaurante-tablet .controla-y-simplific-1 {
+  height: 314px;
+  left: 317px;
+  letter-spacing: 0;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  top: 2503px;
+  width: 676px;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-22::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-22 {
+  align-items: flex-start;
+  gap: 18px;
+  height: 832px;
+  left: 269px;
+  min-width: 768px;
+  overflow-x: scroll;
+  top: 4683px;
+}
+
+.restaurante-tablet .overlap-group3-1 {
+  border-radius: 18.1px;
+  flex: 0 0 auto;
+  height: 832px;
+  position: relative;
+  width: 538px;
+}
+
+.restaurante-tablet .grupo-297-1 {
+  align-items: flex-start;
+  background-color: var(--quick-silver);
+  border-radius: 18.1px;
+  display: flex;
+  flex-direction: column;
+  gap: 209px;
+  left: 0;
+  min-height: 832px;
+  padding: 65.0px 51.1px;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.restaurante-tablet .overlap-group2-1 {
+  align-self: flex-end;
+  height: 347px;
+  position: relative;
+  width: 432px;
+}
+
+.restaurante-tablet .bsico {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 64.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.restaurante-tablet .grupo-296-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 262px;
+  left: 0;
+  min-width: 432px;
+  position: absolute;
+  top: 85px;
+}
+
+.restaurante-tablet .trazado-container-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 73px;
+  margin-left: -4px;
+  margin-top: 11.66px;
+  min-height: 111px;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-1-1 {
+  height: 19px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .mdulo-de-pedidos-co-1 {
+  height: 264px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 401px;
+}
+
+.restaurante-tablet .usd-25-1 {
+  height: 137px;
+  letter-spacing: 0;
+  line-height: 95.5px;
+  margin-left: 4.09px;
+  width: 265px;
+}
+
+.restaurante-tablet .mes-por-restaurantesin-impuestos-3 {
+  left: 58px;
+  top: 717px;
+  width: 353px;
+}
+
+.restaurante-tablet .grupo-295-1 {
+  align-items: flex-start;
+  background-color: var(--guardsman-red);
+  border-radius: 18.1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 832px;
+  padding: 17.1px 53.8px;
+  width: 538px;
+}
+
+.restaurante-tablet .estndar-1 {
+  letter-spacing: 0;
+  line-height: 64.8px;
+  margin-left: 2.0px;
+  margin-top: 49px;
+  min-height: 67px;
+  white-space: nowrap;
+}
+
+.restaurante-tablet .grupo-294-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 15px;
+  height: 471px;
+  margin-top: 16px;
+  min-width: 428px;
+}
+
+.restaurante-tablet .trazado-container-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -4px;
+  margin-top: 12.71px;
+  min-height: 386px;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-15-1 {
+  height: 19px;
+  margin-top: 72px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-159-1 {
+  height: 19px;
+  margin-top: 28px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-160-1 {
+  height: 19px;
+  margin-top: 118px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .ciclo-de-abastecimie-1 {
+  height: 473px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 395px;
+}
+
+.restaurante-tablet .overlap-group1-2 {
+  height: 194px;
+  margin-left: 2.0px;
+  margin-top: 1px;
+  position: relative;
+  width: 353px;
+}
+
+.restaurante-tablet .usd-49-1 {
+  height: 137px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 95.5px;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.restaurante-tablet .mes-por-restaurantesin-impuestos-4 {
+  left: 0;
+  top: 95px;
+  width: 353px;
+}
+
+.restaurante-tablet .grupo-293-1 {
+  align-items: flex-start;
+  background-color: var(--quick-silver);
+  border-radius: 18.1px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  min-height: 832px;
+  padding: 17.1px 62.4px;
+  width: 538px;
+}
+
+.restaurante-tablet .premium-1 {
+  letter-spacing: 0;
+  line-height: 64.8px;
+  margin-left: 2.0px;
+  margin-top: 50px;
+  min-height: 67px;
+  white-space: nowrap;
+}
+
+.restaurante-tablet .overlap-group-10 {
+  align-self: flex-end;
+  height: 666px;
+  position: relative;
+  width: 411px;
+}
+
+.restaurante-tablet .usd-69-1 {
+  height: 137px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 95.5px;
+  position: absolute;
+  top: 472px;
+  width: 281px;
+}
+
+.restaurante-tablet .mes-por-restaurantesin-impuestos-5 {
+  left: 0;
+  top: 566px;
+  width: 343px;
+}
+
+.restaurante-tablet .grupo-292-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 487px;
+  left: 0;
+  min-width: 411px;
+  position: absolute;
+  top: 0;
+}
+
+.restaurante-tablet .trazado-container-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -4px;
+  margin-top: 12.71px;
+  min-height: 341px;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-151 {
+  height: 19px;
+  margin-top: 71px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-152-1 {
+  height: 19px;
+  margin-top: 73px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .trazado-287 {
+  height: 19px;
+  margin-top: 120px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.restaurante-tablet .todas-las-funcionali-1 {
+  height: 489px;
+  letter-spacing: 0;
+  line-height: 46.0px;
+  margin-top: -6.43px;
+  width: 383px;
+}
+
+.restaurante-tablet .pon-tus-rdenes-en-orden-1 {
+  height: 322px;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 4416px;
+  width: 659px;
+}
+
+.restaurante-tablet .muy-ocupado-atendie-1 {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 60px;
+  height: 294px;
+  left: 285px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 5620px;
+  width: 741px;
+}
+
+.restaurante-tablet .boton-contacto-1 {
+  display: flex;
+  height: 92px;
+  left: 477px;
+  position: absolute;
+  top: 4188px;
+  width: 351px;
+}
+
+.restaurante-tablet .enmascarar-grupo-9-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 351.43px;
+}
+
+.restaurante-tablet .overlap-group-11 {
+  height: 114px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 351px;
+}
+
+.restaurante-tablet .rectngulo-156-1 {
+  background-color: var(--science-blue);
+  border-radius: 27.46px;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 351px;
+}
+
+.restaurante-tablet .grupo-299-1 {
+  align-items: flex-start;
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  display: flex;
+  height: 92px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 351px;
+  padding: 0 6.1px;
+  position: absolute;
+  top: 22px;
+}
+
+.restaurante-tablet .contctanos-1 {
+  letter-spacing: 0;
+  line-height: 101.9px;
+  margin-top: -19.25px;
+  min-height: 69px;
+  text-align: center;
+  white-space: nowrap;
+  width: 337px;
+}
+
+.restaurante-tablet .grupo-300-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  height: 18px;
+  left: 570px;
+  min-width: 165px;
+  position: absolute;
+  top: 2444px;
+}
+
+.restaurante-tablet .elipse-3-1 {
+  background-color: var(--gray);
+}
+
+.restaurante-tablet .elipse-3-2 {
+  background-color: var(--white);
+  opacity: 0.5;
+}
+
+.restaurante-tablet .elipse-7 {
+  align-self: flex-end;
+  background-color: var(--white);
+  margin-bottom: 0;
+}
+
+.restaurante-tablet .grupo-301-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 612px;
+  min-width: 82px;
+  position: absolute;
+  top: 5556px;
+}
+
+.restaurante-tablet .elipse-38-1 {
+  background-color: var(--white);
+  border-radius: 8.84px;
+  height: 18px;
+  margin-left: 14px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-tablet .elipse-39-1 {
+  background-color: var(--white);
+  border-radius: 8.84px;
+  height: 18px;
+  margin-left: 15px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-5-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-5-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 605px;
+  left: 317px;
+  min-width: 674px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 1757px;
+}
+
+.restaurante-tablet .grupo-pedidos-rapidos-y-confiables-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  width: 565px;
+}
+
+.restaurante-tablet .componente-98-2 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-171-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565.0px;
+}
+
+.restaurante-tablet .overlap-group-12 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 7.9px 112.6px;
+}
+
+.restaurante-tablet .pedidos-rpidos-y-confiables-1 {
+  height: 117px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 333px;
+}
+
+.restaurante-tablet .grupo-reduce-errores-y-desperdicios-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 565px;
+}
+
+.restaurante-tablet .componente-99-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-319-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+}
+
+.restaurante-tablet .overlap-group-13 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 9.3px 110.4px;
+}
+
+.restaurante-tablet .reduce-errores-y-desperdicios-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 335px;
+}
+
+.restaurante-tablet .grupo-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  width: 565px;
+}
+
+.restaurante-tablet .componente-100-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-308-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565px;
+}
+
+.restaurante-tablet .overlap-group-14 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 41.3px 152.8px;
+}
+
+.restaurante-tablet .ahorra-tiempo-1 {
+  height: 72px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 258px;
+}
+
+.restaurante-tablet .componente-101-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-311-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+}
+
+.restaurante-tablet .overlap-group-15 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 26.1px 113.9px;
+}
+
+.restaurante-tablet .rene-al-equipo-1 {
+  height: 81px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 335px;
+}
+
+.restaurante-tablet .componente-102-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-314-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565.01px;
+}
+
+.restaurante-tablet .overlap-group-16 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 16.8px 113.2px;
+}
+
+.restaurante-tablet .sincronzate-con-la-cadena-1 {
+  height: 115px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.restaurante-tablet .componente-103-2 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-169-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 565.0px;
+}
+
+.restaurante-tablet .overlap-group-17 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 14.3px 111.2px;
+}
+
+.restaurante-tablet .no-ms-post-its-en-tu-cocina-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-13::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento-13 {
+  align-items: flex-end;
+  height: 588px;
+  justify-content: flex-end;
+  left: 349px;
+  min-width: 607px;
+  overflow: scroll;
+  top: 3375px;
+}
+
+.restaurante-tablet .grupo-563 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: -46.2px;
+  min-height: 623px;
+  padding: 0.0px 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-276-1 {
+  background-image: url(../img/grupo-275-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 374px;
+  margin-left: 0;
+  width: 374px;
+}
+
+.restaurante-tablet .overlap-group1-4 {
+  height: 235px;
+  position: relative;
+  width: 376px;
+}
+
+.restaurante-tablet .valida-la-calidad-de-1 {
+  height: 151px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 376px;
+}
+
+.restaurante-tablet .referencias-proveedor {
+  height: 92px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-564 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: -37.2px;
+  margin-left: 35px;
+  min-height: 614px;
+  padding: 0.0px 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-279-1 {
+  background-image: url(../img/grupo-278-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 374px;
+  margin-left: 0;
+  width: 374px;
+}
+
+.restaurante-tablet .overlap-group2-2 {
+  height: 226px;
+  position: relative;
+  width: 376px;
+}
+
+.restaurante-tablet .realiza-tus-negociac-1 {
+  height: 142px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  position: absolute;
+  text-align: center;
+  top: 84px;
+  width: 376px;
+}
+
+.restaurante-tablet .tu-estrategia-financiera-1 {
+  height: 89px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-565 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -60.78px;
+  margin-left: 35px;
+  min-height: 638px;
+  padding: 0.0px 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-269-1 {
+  background-image: url(../img/grupo-268-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 374px;
+  width: 374px;
+}
+
+.restaurante-tablet .accede-a-ms-proveedores-1 {
+  height: 58px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  margin-top: 9px;
+  text-align: center;
+  width: 376px;
+}
+
+.restaurante-tablet .explora-las-propuest {
+  height: 166px;
+  letter-spacing: 0;
+  line-height: 37.7px;
+  margin-top: 28px;
+  text-align: center;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-566 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: -8.59px;
+  margin-left: 34px;
+  min-height: 586px;
+  padding: 0.0px 0;
+  width: 376px;
+}
+
+.restaurante-tablet .grupo-272-1 {
+  background-image: url(../img/grupo-271-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 374px;
+  width: 374px;
+}
+
+.restaurante-tablet .encuentra-l-container-1 {
+  height: 195px;
+  position: relative;
+  width: 376px;
+}
+
+.restaurante-tablet .encuentra-las-materi-1 {
+  height: 114px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 31.4px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  width: 376px;
+}
+
+.restaurante-tablet .encuentra-lo-que-buscas {
+  height: 93px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 28.6px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 376px;
+}
+
+.restaurante-tablet .span1-1 {
+  color: var(--black);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: 26.2px;
+}
+
+.restaurante-tablet .grupo-585-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 184px;
+  left: 286px;
+  min-width: 735px;
+  padding: 0.0px 140.2px;
+  position: absolute;
+  top: 6167px;
+}
+
+.restaurante-tablet .overlap-group4-1 {
+  height: 161px;
+  position: relative;
+  width: 454px;
+}
+
+.restaurante-tablet .overlap-group-18 {
+  height: 161px;
+  margin-bottom: 0;
+  position: relative;
+  width: 424px;
+}
+
+.restaurante-tablet .componente-157-10 {
+  display: flex;
+  flex: 1;
+  width: 204.5px;
+}
+
+.restaurante-tablet .formulario-1 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  left: 36px;
+  min-width: 377px;
+  padding: 0.0px 87.1px;
+  position: absolute;
+  top: 67px;
+}
+
+.restaurante-tablet .grupo-617-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 29px;
+  height: 38px;
+  left: 384px;
+  min-width: 541px;
+  position: absolute;
+  top: 6391px;
+}
+
+.restaurante-tablet .text-9 {
+  margin-top: -2.51px;
+}
+
+.restaurante-tablet .text-10 {
+  margin-top: -5.51px;
+}
+
+.restaurante-tablet .grupo-544-1 {
+  background-color: var(--black);
+  display: flex;
+  height: 95px;
+  justify-content: space-between;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 768px;
+  z-index: 2;
+}
+
+.restaurante-tablet .grupo-442 {
+  cursor: pointer;
+  display: flex;
+  height: 38.21px;
+  margin-left: 38.1px;
+  margin-top: -19.1px;
+  transition: all 0.2s ease;
+  width: 231.48px;
+}
+
+.restaurante-tablet .grupo-442:hover {
+  transform: scale(1.1);
+}
+
+.restaurante-tablet .grupo-441 {
+  cursor: pointer;
+  display: flex;
+  flex: 1;
+  transition: all 0.2s ease;
+  width: 231.48px;
+}
+
+.restaurante-tablet .grupo-441:hover {
+  transform: scale(1.1);
+}
+
+.restaurante-tablet .grupo-440 {
+  display: flex;
+  flex: 1;
+  width: 231.48px;
+}
+
+.restaurante-tablet .grupo-439 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  min-width: 231.48px;
+}
+
+.restaurante-tablet .trazado-235 {
+  height: 36px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 36px;
+}
+
+.restaurante-tablet .trazado-236 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.restaurante-tablet .trazado-237 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.restaurante-tablet .trazado-238 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.restaurante-tablet .trazado-239 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.restaurante-tablet .trazado-240 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.restaurante-tablet .trazado-24 {
+  height: 38px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 26px;
+}
+
+.restaurante-tablet .hamburguesa-restaurante-tablet {
+  display: flex;
+  height: 16.93px;
+  justify-content: flex-end;
+  margin-right: 39.4px;
+  margin-top: -8.5px;
+  width: 40.08px;
+}
+
+.restaurante-tablet .elipse {
+  border-radius: 8.84px;
+  height: 18px;
+  opacity: 0.5;
+  width: 18px;
+}
+
+.restaurante-tablet .elipse-3 {
+  border-radius: 8.84px;
+  height: 18px;
+  width: 18px;
+}
+
+.restaurante-tablet .grupo-de-desplazamiento {
+  display: flex;
+  position: absolute;
+}
+
+.restaurante-tablet .mes-por-restaurantesin-impuestos {
+  height: 100px;
+  letter-spacing: 0;
+  line-height: 35.9px;
+  position: absolute;
+}
+
+.restaurante-tablet .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 37px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.restaurante-tablet .trazado-14 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - restaurante-telefono */
+
+.restaurante-telefono {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 2423.59px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.restaurante-telefono .overlap-group4-2 {
+  height: 2376px;
+  margin-left: -17px;
+  margin-top: 50px;
+  position: relative;
+  width: 380px;
+  z-index: 1;
+}
+
+.restaurante-telefono .rectngulo-106 {
+  background-color: var(--black);
+  height: 2376px;
+  left: 17px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.restaurante-telefono .grupo-203 {
+  align-items: flex-end;
+  display: flex;
+  gap: 3px;
+  height: 6px;
+  left: 172px;
+  min-width: 50px;
+  position: absolute;
+  top: 941px;
+}
+
+.restaurante-telefono .elipse-20 {
+  background-color: var(--gray);
+  border-radius: 2.79px;
+  height: 6px;
+  margin-bottom: 0;
+  width: 6px;
+}
+
+.restaurante-telefono .elipse-2 {
+  background-color: var(--white);
+  border-radius: 2.79px;
+  height: 6px;
+  margin-bottom: 0;
+  opacity: 0.5;
+  width: 6px;
+}
+
+.restaurante-telefono .la-herramienta-ms-a-2 {
+  height: 105px;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  top: 20px;
+  width: 221px;
+}
+
+.restaurante-telefono .grupo-208 {
+  background-image: url(../img/layer-0-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 204px;
+  left: 14px;
+  position: absolute;
+  top: 130px;
+  width: 365px;
+}
+
+.restaurante-telefono .usa-marketoo-para-re-2 {
+  height: 133px;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  text-align: center;
+  top: 372px;
+  width: 302px;
+}
+
+.restaurante-telefono .grupo-212 {
+  display: flex;
+  height: 10px;
+  left: 192px;
+  position: absolute;
+  top: 517px;
+  width: 9px;
+}
+
+.restaurante-telefono .grupo-211 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 9.2px;
+  padding: 0.1px 0;
+}
+
+.restaurante-telefono .grupo-container-1 {
+  height: 10px;
+  position: relative;
+  width: 9px;
+}
+
+.restaurante-telefono .grupo-209 {
+  background-image: url(../img/trazado-114@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+
+.restaurante-telefono .trazado-11 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 9.2px;
+}
+
+.restaurante-telefono .grupo-210 {
+  background-image: url(../img/trazado-114@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.restaurante-telefono .enfcate-en-crear-2 {
+  height: 53px;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  top: 560px;
+  width: 292px;
+}
+
+.restaurante-telefono .controla-y-simplific-2 {
+  height: 90px;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  text-align: center;
+  top: 966px;
+  width: 302px;
+}
+
+.restaurante-telefono .grupo-214 {
+  background-image: url(../img/grupo-213@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 422px;
+  left: 0;
+  position: absolute;
+  top: 1079px;
+  width: 379px;
+}
+
+.restaurante-telefono .rectngulo-109 {
+  background-color: var(--white);
+  border-radius: 11.95px;
+  height: 348px;
+  left: 48px;
+  position: absolute;
+  top: 1106px;
+  width: 297px;
+}
+
+.restaurante-telefono .encuentra-nuevas-posibilidades-2 {
+  color: var(--black);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 29.9px;
+  height: 79px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 27.3px;
+  position: absolute;
+  top: 1120px;
+  width: 262px;
+}
+
+.restaurante-telefono .marketoo-es-la-forma-2 {
+  color: var(--black);
+  font-family: var(--font-family-sfprorounded-regular);
+  font-size: var(--font-size-xxxs);
+  height: 173px;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1181px;
+  width: 263px;
+}
+
+.restaurante-telefono .grupo-215 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 5px;
+  left: 181px;
+  min-width: 32px;
+  position: absolute;
+  top: 1435px;
+}
+
+.restaurante-telefono .elipse-26 {
+  background-color: var(--guardsman-red);
+  border-radius: 2.46px;
+  height: 5px;
+  width: 5px;
+}
+
+.restaurante-telefono .elipse-2-1 {
+  background-color: var(--guardsman-red);
+  border-radius: 2.46px;
+  height: 5px;
+  opacity: 0.5;
+  width: 5px;
+}
+
+.restaurante-telefono .elipse-54 {
+  align-self: flex-end;
+  background-color: var(--guardsman-red);
+  border-radius: 2.46px;
+  height: 5px;
+  margin-bottom: 0;
+  opacity: 0.5;
+  width: 5px;
+}
+
+.restaurante-telefono .boton-contacto-2 {
+  display: flex;
+  height: 20px;
+  left: 158px;
+  position: absolute;
+  top: 1469px;
+  width: 75px;
+}
+
+.restaurante-telefono .enmascarar-grupo-11 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 74.85px;
+}
+
+.restaurante-telefono .overlap-group1-5 {
+  height: 25px;
+  margin-top: -5.01px;
+  position: relative;
+  width: 75px;
+}
+
+.restaurante-telefono .overlap-group-19 {
+  height: 25px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 75px;
+}
+
+.restaurante-telefono .grupo-216 {
+  align-items: flex-start;
+  background-color: var(--guardsman-red-2);
+  border-radius: 9.76px;
+  display: flex;
+  height: 20px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 75px;
+  padding: 0 3.1px;
+  position: absolute;
+  top: 5px;
+}
+
+.restaurante-telefono .pon-tus-rdenes-en-orden-2 {
+  height: 78px;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  top: 1525px;
+  width: 267px;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-25::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-25 {
+  gap: 10px;
+  height: 467px;
+  left: 17px;
+  min-width: 359px;
+  overflow-x: scroll;
+  top: 1600px;
+}
+
+.restaurante-telefono .overlap-group2-3 {
+  flex: 0 0 auto;
+  height: 467px;
+  position: relative;
+  width: 301px;
+}
+
+.restaurante-telefono .grupo-222 {
+  align-items: flex-start;
+  background-color: var(--quick-silver);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 467px;
+  padding: 36.3px 27.7px;
+  position: absolute;
+  top: 0;
+  width: 301px;
+}
+
+.restaurante-telefono .bsico-1 {
+  letter-spacing: 0;
+  line-height: 36.3px;
+  margin-left: 3.17px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.restaurante-telefono .grupo-221 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  gap: 5px;
+  height: 147px;
+  margin-top: 10px;
+  min-width: 243px;
+}
+
+.restaurante-telefono .trazado-container-10 {
+  gap: 37px;
+  margin-top: 5.06px;
+  min-height: 65px;
+}
+
+.restaurante-telefono .trazado-1-2 {
+  height: 14px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .mdulo-de-pedidos-co-2 {
+  height: 149px;
+  letter-spacing: 0;
+  line-height: 25.8px;
+  margin-top: -3.6px;
+  width: 225px;
+}
+
+.restaurante-telefono .title {
+  height: 77px;
+  letter-spacing: 0;
+  line-height: 53.5px;
+  margin-left: 3.17px;
+  margin-top: 117px;
+  width: 153px;
+}
+
+.restaurante-telefono .mes-por-restaurantesin-impuestos-6 {
+  left: 33px;
+  top: 402px;
+  width: 199px;
+}
+
+.restaurante-telefono .grupo-220 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--guardsman-red);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9px;
+  margin-top: 0;
+  min-height: 467px;
+  padding: 8.7px 29.3px;
+  width: 301px;
+}
+
+.restaurante-telefono .estndar-2 {
+  letter-spacing: 0;
+  line-height: 36.3px;
+  margin-left: 2.0px;
+  margin-top: 28px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.restaurante-telefono .overlap-group1-6 {
+  align-self: flex-end;
+  height: 374px;
+  position: relative;
+  width: 241px;
+}
+
+.restaurante-telefono .usd-49-2 {
+  height: 77px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 53.5px;
+  position: absolute;
+  top: 265px;
+  width: 165px;
+}
+
+.restaurante-telefono .mes-por-restaurantesin-impuestos-7 {
+  left: 0;
+  top: 317px;
+  width: 199px;
+}
+
+.restaurante-telefono .grupo-219 {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 270px;
+  left: 0;
+  min-width: 241px;
+  position: absolute;
+  top: 0;
+}
+
+.restaurante-telefono .trazado-container-11 {
+  margin-top: 5.65px;
+  min-height: 219px;
+}
+
+.restaurante-telefono .trazado-12 {
+  height: 14px;
+  margin-left: 0;
+  margin-top: 38px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .trazado-126 {
+  height: 14px;
+  margin-left: 0;
+  margin-top: 36px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .trazado-127 {
+  height: 14px;
+  margin-top: 12px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .trazado-128 {
+  height: 14px;
+  margin-top: 63px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .ciclo-de-abastecimie-2 {
+  height: 272px;
+  letter-spacing: 0;
+  line-height: 25.8px;
+  margin-top: -3.61px;
+  width: 222px;
+}
+
+.restaurante-telefono .grupo-218 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--quick-silver);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 0;
+  min-height: 467px;
+  padding: 8.7px 34.1px;
+  width: 301px;
+}
+
+.restaurante-telefono .premium-2 {
+  letter-spacing: 0;
+  line-height: 36.3px;
+  margin-left: 2.0px;
+  margin-top: 29px;
+  min-height: 38px;
+  white-space: nowrap;
+}
+
+.restaurante-telefono .overlap-group-20 {
+  align-self: flex-end;
+  height: 374px;
+  position: relative;
+  width: 231px;
+}
+
+.restaurante-telefono .usd-69-2 {
+  height: 77px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 53.5px;
+  position: absolute;
+  top: 265px;
+  width: 152px;
+}
+
+.restaurante-telefono .mes-por-restaurantesin-impuestos-8 {
+  left: 0;
+  top: 317px;
+  width: 193px;
+}
+
+.restaurante-telefono .grupo-217 {
+  align-items: flex-start;
+  display: flex;
+  gap: 4px;
+  height: 273px;
+  left: 0;
+  min-width: 231px;
+  position: absolute;
+  top: 0;
+}
+
+.restaurante-telefono .trazado-container-12 {
+  margin-top: 5.65px;
+  min-height: 195px;
+}
+
+.restaurante-telefono .trazado-120 {
+  height: 14px;
+  margin-top: 37px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .trazado-288 {
+  height: 14px;
+  margin-left: 0;
+  margin-top: 64px;
+  object-fit: cover;
+  width: 16px;
+}
+
+.restaurante-telefono .todas-las-funcionali-2 {
+  height: 275px;
+  letter-spacing: 0;
+  line-height: 25.8px;
+  margin-top: -3.61px;
+  width: 216px;
+}
+
+.restaurante-telefono .aprovecha-los-benefi-2 {
+  height: 45px;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  text-align: center;
+  top: 2173px;
+  width: 300px;
+}
+
+.restaurante-telefono .muy-ocupado-atendie-2 {
+  height: 80px;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 20.3px;
+  position: absolute;
+  text-align: center;
+  top: 2102px;
+  width: 308px;
+}
+
+.restaurante-telefono .grupo-224 {
+  align-items: flex-end;
+  display: flex;
+  gap: 4px;
+  height: 5px;
+  left: 185px;
+  min-width: 23px;
+  position: absolute;
+  top: 2082px;
+}
+
+.restaurante-telefono .elipse-29 {
+  background-color: var(--gray);
+  border-radius: 2.46px;
+  height: 5px;
+  margin-bottom: 0;
+  width: 5px;
+}
+
+.restaurante-telefono .elipse-3-3 {
+  background-color: var(--white);
+  border-radius: 2.46px;
+  height: 5px;
+  margin-bottom: 0;
+  opacity: 0.5;
+  width: 5px;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-8::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-8 {
+  height: 321px;
+  left: 15px;
+  min-width: 365px;
+  overflow-x: scroll;
+  top: 605px;
+}
+
+.restaurante-telefono .grupo-pedidos-rapidos-y-confiables-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 321px;
+  width: 300px;
+}
+
+.restaurante-telefono .componente-110-1 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-128@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 299.77px;
+}
+
+.restaurante-telefono .overlap-group-21 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 3.3px 58.8px;
+}
+
+.restaurante-telefono .pedidos-rpidos-y-confiables-2 {
+  height: 63px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 178px;
+}
+
+.restaurante-telefono .grupo-reduce-errores-y-desperdicios-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 321px;
+  margin-left: 16px;
+  width: 300px;
+}
+
+.restaurante-telefono .componente-111-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-242@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-right: 0;
+  min-width: 299.78px;
+}
+
+.restaurante-telefono .overlap-group-22 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 4.0px 57.6px;
+}
+
+.restaurante-telefono .reduce-errores-y-desperdicios-2 {
+  height: 61px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 179px;
+}
+
+.restaurante-telefono .grupo-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 321px;
+  margin-left: 17px;
+  width: 300px;
+}
+
+.restaurante-telefono .componente-112-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-231@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 299.78px;
+}
+
+.restaurante-telefono .overlap-group-23 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 21.7px 80.1px;
+}
+
+.restaurante-telefono .ahorra-tiempo-2 {
+  height: 39px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 138px;
+}
+
+.restaurante-telefono .componente-113-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-234@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 299.78px;
+}
+
+.restaurante-telefono .overlap-group-24 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 12.9px 59.5px;
+}
+
+.restaurante-telefono .rene-al-equipo-2 {
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 179px;
+}
+
+.restaurante-telefono .componente-114-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-237@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 299.78px;
+}
+
+.restaurante-telefono .overlap-group-25 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 8.0px 59.1px;
+}
+
+.restaurante-telefono .sincronzate-con-la-cadena-2 {
+  height: 62px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 180px;
+}
+
+.restaurante-telefono .componente-115-1 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-126@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 299.77px;
+}
+
+.restaurante-telefono .overlap-group-26 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 20.83px 20.83px 0px 0px;
+  display: flex;
+  height: 83px;
+  justify-content: flex-end;
+  min-width: 300px;
+  padding: 6.6px 58.1px;
+}
+
+.restaurante-telefono .no-ms-post-its-en-tu-cocina-2 {
+  height: 61px;
+  letter-spacing: 0;
+  line-height: 22.9px;
+  text-align: center;
+  width: 180px;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-15::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento-15 {
+  height: 210px;
+  justify-content: flex-end;
+  left: 67px;
+  min-width: 261px;
+  overflow: scroll;
+  top: 1228px;
+}
+
+.restaurante-telefono .grupo-249 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3.0px;
+  min-height: 192px;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-247 {
+  background-image: url(../img/grupo-246@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 126px;
+  width: 126px;
+}
+
+.restaurante-telefono .accede-a-ms-proveedores-2 {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 10.5px;
+  margin-top: 8px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .explora-las-propuest-1 {
+  color: var(--black);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: 6px;
+  height: 36px;
+  letter-spacing: 0;
+  line-height: 10.5px;
+  margin-top: 6px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-255 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  margin-top: 3px;
+  min-height: 197px;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-254 {
+  background-image: url(../img/grupo-253@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 126px;
+  width: 126px;
+}
+
+.restaurante-telefono .tu-estrategia-financiera-2 {
+  height: 17px;
+  letter-spacing: 0;
+  line-height: 10.5px;
+  margin-top: 8px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .realiza-tus-negociac-2 {
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 8.7px;
+  margin-top: 6px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-258 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-left: 26px;
+  margin-top: 3.0px;
+  min-height: 190px;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-257 {
+  background-image: url(../img/grupo-256@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 126px;
+  width: 126px;
+}
+
+.restaurante-telefono .encuentra-l-container-2 {
+  height: 56px;
+  position: relative;
+  width: 128px;
+}
+
+.restaurante-telefono .encuentra-las-materi-2 {
+  height: 33px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 8.7px;
+  position: absolute;
+  text-align: center;
+  top: 23px;
+  width: 128px;
+}
+
+.restaurante-telefono .encuentra-lo-que-buscas-1 {
+  height: 36px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 10.5px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-252 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -4.92px;
+  margin-left: 26px;
+  min-height: 212px;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-251 {
+  background-image: url(../img/grupo-250@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 126px;
+  width: 126px;
+}
+
+.restaurante-telefono .referencias-del-proveedor-1 {
+  height: 21px;
+  letter-spacing: 0;
+  line-height: 10.5px;
+  margin-top: 9px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .valida-la-calidad-de-2 {
+  height: 54px;
+  letter-spacing: 0;
+  line-height: 8.7px;
+  margin-top: 3px;
+  text-align: center;
+  width: 128px;
+}
+
+.restaurante-telefono .grupo-583 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 88px;
+  left: 22px;
+  min-width: 351px;
+  padding: 0 66.7px;
+  position: absolute;
+  top: 2240px;
+}
+
+.restaurante-telefono .overlap-group3-2 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 217px;
+}
+
+.restaurante-telefono .grupo-580-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-291-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 217px;
+  padding: 0 6.7px;
+  position: absolute;
+  top: 0;
+}
+
+.restaurante-telefono .overlap-group-27 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 203px;
+}
+
+.restaurante-telefono .componente-157-4 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  width: 97.66px;
+}
+
+.restaurante-telefono .grupo-617-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 80px;
+  min-width: 236px;
+  position: absolute;
+  top: 2341px;
+}
+
+.restaurante-telefono .text-15 {
+  margin-top: -4.5px;
+}
+
+.restaurante-telefono .text-16 {
+  margin-top: -6.5px;
+}
+
+.restaurante-telefono .grupo-376 {
+  cursor: pointer;
+  display: flex;
+  height: 16.3px;
+  margin-left: 14.9px;
+  margin-top: -8.1px;
+  width: 98.77px;
+}
+
+.restaurante-telefono .grupo-37 {
+  display: flex;
+  flex: 1;
+  width: 98.77px;
+}
+
+.restaurante-telefono .grupo-373 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  min-width: 98.77px;
+}
+
+.restaurante-telefono .grupo-37-1 {
+  background-image: url(../img/trazado-209-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 20px;
+}
+
+.restaurante-telefono .grupo-379 {
+  background-image: url(../img/trazado-211-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 20px;
+}
+
+.restaurante-telefono .grupo-de-desplazamiento {
+  align-items: flex-start;
+  display: flex;
+  position: absolute;
+}
+
+.restaurante-telefono .mes-por-restaurantesin-impuestos {
+  height: 57px;
+  letter-spacing: 0;
+  line-height: 20.2px;
+  position: absolute;
+}
+
+.restaurante-telefono .text {
+  letter-spacing: 0;
+  line-height: 29px;
+  margin-left: 12px;
+  min-height: 18px;
+  min-width: 9px;
+  white-space: nowrap;
+}
+
+.restaurante-telefono .trazado-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: -4px;
+  width: 16px;
+}
+@media screen and (max-width: 767px) {
+  .screen.restaurante-desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.restaurante-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  .screen.restaurante-desktop-all-breakpoints { 
+    display: none;
+   }
+  .screen.restaurante-telefono { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1281px) {
+  .screen.restaurante-tablet { 
+    display: none;
+   }
+  .screen.restaurante-telefono { 
+    display: none;
+   }
+}

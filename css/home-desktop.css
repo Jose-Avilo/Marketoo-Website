@@ -1,0 +1,3010 @@
+/* screen - home-desktop */
+
+.home-desktop {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 6905.65px;
+  overflow: hidden;
+  width: 1281px;
+}
+
+.home-desktop .overlap-group8 {
+  height: 6812px;
+  margin-left: -13px;
+  margin-top: 95.4px;
+  position: relative;
+  width: 1307px;
+  z-index: 1;
+}
+
+.home-desktop .grupo-438 {
+  display: flex;
+  height: 28px;
+  left: 641px;
+  position: absolute;
+  top: 2313px;
+  width: 26px;
+}
+
+.home-desktop .grupo-437 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 25.53px;
+}
+
+.home-desktop .trazado-container {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+
+.home-desktop .trazado-23 {
+  height: 17px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.home-desktop .trazado-23-1 {
+  height: 18px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.home-desktop .trazado-container-1 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.home-desktop .rectngulo-249 {
+  background-color: var(--black);
+  height: 6812px;
+  left: 13px;
+  position: absolute;
+  top: 0;
+  width: 1281px;
+}
+
+.home-desktop .bienvenido-a-la-nue {
+  height: 573px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 60.1px;
+  position: absolute;
+  text-align: center;
+  top: 1108px;
+  width: 1153px;
+}
+
+.home-desktop .grupo-444 {
+  background-image: url(../img/grupo-443@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 385px;
+  left: 78px;
+  position: absolute;
+  top: 1772px;
+  width: 553px;
+}
+
+.home-desktop .grupo-446 {
+  background-image: url(../img/grupo-445@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 385px;
+  left: 668px;
+  position: absolute;
+  top: 2228px;
+  width: 590px;
+}
+
+.home-desktop .pararestaurantes {
+  height: 157px;
+  left: 666px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 1772px;
+  width: 497px;
+}
+
+.home-desktop .name {
+  height: 166px;
+  left: 666px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 1924px;
+  width: 593px;
+}
+
+.home-desktop .grupo-447 {
+  background-image: url(../img/trazado-283-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 822px;
+  position: absolute;
+  top: 2102px;
+  transition: all 0.2s ease;
+  width: 280px;
+}
+
+.home-desktop .grupo-447:hover {
+  transform: scale(1.1);
+}
+
+.home-desktop .aprende-ms {
+  flex: 1;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 90.3px;
+  margin-left: 36.2px;
+  margin-right: 14.8px;
+  margin-top: -30.1px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-desktop .grupo-449 {
+  background-image: url(../img/grupo-448@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 773px;
+  left: 13px;
+  position: absolute;
+  top: 279px;
+  width: 1281px;
+}
+
+.home-desktop .grupo-449 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.home-desktop .grupo-449 img {
+  object-fit: cover;
+}
+
+.home-desktop .la-app-para-la-caden {
+  height: 300px;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 47px;
+  width: 1152px;
+}
+
+.home-desktop .paraproveedores {
+  height: 154px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 2207px;
+  width: 555px;
+}
+
+.home-desktop .seas-fabricante-o-di {
+  height: 154px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 2373px;
+  width: 546px;
+}
+
+.home-desktop .grupo-450 {
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 210px;
+  position: absolute;
+  top: 2528px;
+  transition: all 0.2s ease;
+  width: 280px;
+}
+
+.home-desktop .grupo-450:hover {
+  transform: scale(1.1);
+}
+
+.home-desktop .aprende-ms-1 {
+  flex: 1;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 90.3px;
+  margin-left: 26.3px;
+  margin-right: 24.7px;
+  margin-top: -29.1px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-desktop .grupo-451 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  height: 18px;
+  left: 565px;
+  min-width: 177px;
+  position: absolute;
+  top: 3409px;
+}
+
+.home-desktop .elipse {
+  background-color: var(--gray);
+  border-radius: 8.84px;
+  height: 18px;
+  width: 18px;
+}
+
+.home-desktop .usa-marketoo-para-ha {
+  height: 194px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 57.3px;
+  position: absolute;
+  text-align: center;
+  top: 3495px;
+  width: 1153px;
+}
+
+.home-desktop .span1 {
+  color: var(--guardsman-red);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: var(--font-size-s);
+}
+
+.home-desktop .grupo-560 {
+  align-items: flex-end;
+  background-color: var(--guardsman-red);
+  display: flex;
+  flex-direction: column;
+  gap: 92px;
+  left: 0;
+  min-height: 797px;
+  padding: 31.2px 133.3px;
+  position: absolute;
+  top: 3801px;
+  width: 1307px;
+}
+
+.home-desktop .grupo-458 {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 0;
+  margin-top: 72px;
+  min-width: 611px;
+}
+
+.home-desktop .grupo-456 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-249@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 256px;
+  justify-content: flex-end;
+  min-width: 138px;
+  padding: 85.0px 25.2px;
+}
+
+.home-desktop .trazado-container-2 {
+  height: 86px;
+  position: relative;
+  width: 88px;
+}
+
+.home-desktop .trazado-250 {
+  height: 33px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 54px;
+  width: 88px;
+}
+
+.home-desktop .trazado-251 {
+  height: 68px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 52px;
+}
+
+.home-desktop .grupo-455 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 45px;
+  margin-top: 0;
+  min-width: 125px;
+}
+
+.home-desktop .overlap-group-container-1 {
+  height: 84px;
+  position: relative;
+  width: 125px;
+}
+
+.home-desktop .trazado-container-3 {
+  height: 84px;
+  left: 67px;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.home-desktop .trazado-24 {
+  height: 83px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 55px;
+}
+
+.home-desktop .trazado-24-1 {
+  height: 84px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.home-desktop .trazado-container-4 {
+  height: 84px;
+  left: 33px;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.home-desktop .trazado-container-5 {
+  height: 84px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.home-desktop .grupo-457 {
+  background-image: url(../img/trazado-252@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 245px;
+  margin-left: 38px;
+  margin-top: 0;
+  width: 264px;
+}
+
+.home-desktop .overlap-group5 {
+  height: 315px;
+  position: relative;
+  width: 1038px;
+}
+
+.home-desktop .sincronizar-tu-catl {
+  height: 187px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 128px;
+  width: 1034px;
+}
+
+.home-desktop .con-marketoo-premium {
+  height: 168px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 44px;
+  position: absolute;
+  top: 0;
+  width: 1038px;
+}
+
+.home-desktop .ahorra-tiempo-ahorr {
+  height: 193px;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: 67.6px;
+  position: absolute;
+  text-align: center;
+  top: 5998px;
+  width: 1087px;
+}
+
+.home-desktop .aprovecha-los-benefi {
+  height: 112px;
+  left: 129px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 6166px;
+  width: 1049px;
+}
+
+.home-desktop .grupo-de-desplazamiento-4::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-desktop .grupo-de-desplazamiento-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 606px;
+  left: 78px;
+  min-width: 1152px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 2729px;
+}
+
+.home-desktop .grupo-no-mas-pedidos-a-la-antigua {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-top: 0;
+  width: 566px;
+}
+
+.home-desktop .componente-72-1 {
+  background-image: url(../img/grupo-485@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 565.8px;
+}
+
+.home-desktop .grupo-487 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+  justify-content: flex-end;
+  margin-left: 0.4px;
+  margin-right: 0.4px;
+  max-height: 155.51px;
+  min-width: calc(100.00% - 1px);
+  padding: 17.1px 142.9px;
+}
+
+.home-desktop .no-ms-pedidos-a-la-antigua {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 277px;
+}
+
+.home-desktop .todo-est-en-la-app {
+  flex: 1;
+  height: 330.28px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-bottom: 50.5px;
+  margin-left: 119.0px;
+  margin-right: 117.0px;
+  max-height: 330.28px;
+  opacity: 0;
+  text-align: center;
+}
+
+.home-desktop .grupo-ordenes-en-vivo {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  margin-top: 0;
+  width: 566px;
+}
+
+.home-desktop .componente-73-1 {
+  background-image: url(../img/enmascarar-grupo-481-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 565.6px;
+}
+
+.home-desktop .grupo-483 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+  justify-content: flex-end;
+  margin-right: 0;
+  max-height: 155.51px;
+  min-width: 100%;
+  padding: 30.9px 136.2px;
+}
+
+.home-desktop .rdenes-en-vivo {
+  height: 79px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 291px;
+}
+
+.home-desktop .sigue-el-estatus-de {
+  flex: 1;
+  height: 330.28px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-bottom: 50.5px;
+  margin-left: 118.9px;
+  margin-right: 116.9px;
+  max-height: 330.28px;
+  opacity: 0;
+  text-align: center;
+}
+
+.home-desktop .grupo-ahrrate-tiempo-y-dinero {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  margin-top: 0;
+  width: 565px;
+}
+
+.home-desktop .componente-74-1 {
+  align-items: center;
+  background-image: url(../img/rect-ngulo-265-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 69px;
+  min-height: 100%;
+  width: 565.0px;
+}
+
+.home-desktop .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  margin-left: 0;
+  min-width: 565px;
+  padding: 20.3px 134.6px;
+}
+
+.home-desktop .ahrrate-tiempo-y-dinero {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 294px;
+}
+
+.home-desktop .marketoo-est-disea {
+  height: 330px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-left: 2.0px;
+  opacity: 0;
+  text-align: center;
+  width: 330px;
+}
+
+.home-desktop .grupo {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  width: 565px;
+}
+
+.home-desktop .componente-75-1 {
+  align-items: center;
+  background-image: url(../img/grupo-474@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 69px;
+  min-height: 100%;
+  padding: 0.0px 0;
+  width: 565px;
+}
+
+.home-desktop .overlap-group-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  margin-right: 0;
+  min-width: 565px;
+  padding: 14.3px 113.1px;
+}
+
+.home-desktop .entorno-digital-seguro {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.home-desktop .con-tu-contrasea-n {
+  height: 330px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-left: 2.01px;
+  opacity: 0;
+  text-align: center;
+  width: 330px;
+}
+
+.home-desktop .grupo-gestiona-a-tu-equipo {
+  align-self: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 566px;
+}
+
+.home-desktop .componente-76-1 {
+  background-image: url(../img/grupo-477-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 566.39px;
+}
+
+.home-desktop .grupo-479 {
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+  max-height: 155.51px;
+}
+
+.home-desktop .gestiona-a-tu-equipo {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  margin-bottom: 8.9px;
+  margin-left: 115.7px;
+  margin-right: 113.7px;
+  margin-top: 27.6px;
+  text-align: center;
+  width: 336.9px;
+}
+
+.home-desktop .administra-los-compo {
+  flex: 1;
+  height: 330.28px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-bottom: 51.4px;
+  margin-left: 119.3px;
+  margin-right: 117.3px;
+  max-height: 330.28px;
+  opacity: 0;
+  text-align: center;
+}
+
+.home-desktop .grupo-diseado-para-ser-mvil {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 565px;
+}
+
+.home-desktop .componente-77-1 {
+  align-items: center;
+  background-image: url(../img/grupo-467@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 69px;
+  margin-right: 0;
+  min-height: 100%;
+  padding: 0.0px 0;
+  width: 565px;
+}
+
+.home-desktop .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  margin-left: 0;
+  min-width: 565px;
+  padding: 17.3px 123.2px;
+}
+
+.home-desktop .diseado-para-ser-mvil {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 318px;
+}
+
+.home-desktop .marketoo-est-disea-1 {
+  height: 330px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-left: 1.15px;
+  opacity: 0;
+  text-align: center;
+  width: 330px;
+}
+
+.home-desktop .componente-78-1 {
+  align-items: center;
+  background-image: url(../img/grupo-470@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 69px;
+  min-height: 100%;
+  padding: 0.0px 0;
+  width: 565px;
+}
+
+.home-desktop .overlap-group-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  margin-right: 0;
+  min-width: 565px;
+  padding: 15.4px 113.7px;
+}
+
+.home-desktop .grupo-472 {
+  display: flex;
+  height: 112px;
+  width: 336px;
+}
+
+.home-desktop .soporte-estrella-michelin {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  margin-bottom: 5.9px;
+  margin-right: -2.0px;
+  margin-top: -7.9px;
+  text-align: center;
+  width: 335.51px;
+}
+
+.home-desktop .encontrars-un-aliad {
+  height: 330px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  margin-left: 2.0px;
+  opacity: 0;
+  text-align: center;
+  width: 330px;
+}
+
+.home-desktop .chef {
+  border-radius: 67px;
+  height: 1024px;
+  left: 142px;
+  object-fit: cover;
+  position: absolute;
+  top: 4801px;
+  width: 1024px;
+}
+
+.home-desktop .grupo-585 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 311px;
+  left: 33px;
+  min-width: 1242px;
+  padding: 0.0px 236px;
+  position: absolute;
+  top: 6349px;
+}
+
+.home-desktop .overlap-group6 {
+  background-color: var(--nobel);
+  border-radius: 100px 100px 0px 0px;
+  height: 271px;
+  position: relative;
+  width: 769px;
+}
+
+.home-desktop .overlap-group-4 {
+  height: 271px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 717px;
+}
+
+.home-desktop .componente-157-9 {
+  display: flex;
+  flex: 1;
+  width: 345.52px;
+}
+
+.home-desktop .formulario {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 113px;
+  left: 66px;
+  min-width: 637px;
+  padding: 0.0px 155.7px;
+  position: absolute;
+  top: 104px;
+}
+
+.home-desktop .explora-el-catlogo-de-productos {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem-regular);
+  font-size: 70px;
+  font-weight: 400;
+  height: 193px;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 67.6px;
+  position: absolute;
+  text-align: center;
+  top: 4660px;
+  width: 1198px;
+}
+
+.home-desktop .grupo-586 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 513px;
+  min-width: 280px;
+  position: absolute;
+  top: 5886px;
+  transition: all 0.2s ease;
+}
+
+.home-desktop .grupo-586:hover {
+  transform: scale(1.1);
+}
+
+.home-desktop .overlap-group7 {
+  height: 79px;
+  margin-top: -29.15px;
+  position: relative;
+  width: 280px;
+}
+
+.home-desktop .home-tablet-vinculo-boton-proveedores {
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  cursor: pointer;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 280px;
+}
+
+.home-desktop .encuentra {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 90.3px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 229px;
+}
+
+.home-desktop .trazado-301 {
+  height: 24px;
+  left: 38px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 3020px;
+  width: 22px;
+}
+
+.home-desktop .trazado-307 {
+  height: 24px;
+  left: 1249px;
+  object-fit: cover;
+  opacity: 0;
+  position: absolute;
+  top: 3020px;
+  width: 22px;
+}
+
+.home-desktop .grupo-617 {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  left: 348px;
+  min-width: 613px;
+  position: absolute;
+  top: 6700px;
+}
+
+.home-desktop .text-1 {
+  margin-left: 30px;
+  margin-top: -0.01px;
+}
+
+.home-desktop .text-2 {
+  margin-left: 33px;
+  margin-top: -3.01px;
+}
+
+.home-desktop .grupo-543 {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  height: 95px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1280px;
+  padding: 5.0px 36.8px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.home-desktop .grupo-442 {
+  align-self: center;
+  display: flex;
+  height: 51px;
+  margin-bottom: 1.41px;
+  width: 308px;
+}
+
+.home-desktop .grupo-44 {
+  display: flex;
+  flex: 1;
+  width: 307.79px;
+}
+
+.home-desktop .grupo-439 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 307.79px;
+}
+
+.home-desktop .trazado-235 {
+  height: 48px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 47px;
+}
+
+.home-desktop .trazado-236 {
+  height: 48px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 41px;
+}
+
+.home-desktop .trazado-237 {
+  height: 48px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 35px;
+}
+
+.home-desktop .trazado-238 {
+  height: 48px;
+  margin-bottom: 0;
+  margin-left: 4px;
+  object-fit: cover;
+  width: 39px;
+}
+
+.home-desktop .trazado-239 {
+  height: 48px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.home-desktop .trazado-240 {
+  height: 48px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.home-desktop .trazado-24-2 {
+  align-self: flex-start;
+  height: 51px;
+  margin-left: 2px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 34px;
+}
+
+.home-desktop .trazado-280 {
+  align-self: center;
+  height: 65px;
+  margin-left: 235px;
+  object-fit: cover;
+  width: 66px;
+}
+
+.home-desktop .home-desktop-vinculo-a-restaurantes {
+  margin-left: 91px;
+  width: 159px;
+}
+
+.home-desktop .home-desktop-vinculo-a-proveedores {
+  margin-left: 28px;
+  width: 145px;
+}
+
+.home-desktop .home-desktop-vinculo-a-productos {
+  margin-left: 28px;
+  width: 119px;
+}
+
+.home-desktop .home-desktop-vinculo-a {
+  cursor: pointer;
+  display: flex;
+  height: 58px;
+}
+
+.home-desktop .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 42px;
+  min-width: 20px;
+  white-space: nowrap;
+}
+/* screen - home-tablet */
+
+.home-tablet {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  height: 7248.26px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.home-tablet .grupo-543-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  height: 95px;
+  left: 0;
+  min-width: 768px;
+  padding: 28.4px 38.1px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.home-tablet .grupo-442-1 {
+  display: flex;
+  height: 38px;
+  width: 231px;
+}
+
+.home-tablet .grupo-44-1 {
+  display: flex;
+  flex: 1;
+  width: 231.48px;
+}
+
+.home-tablet .grupo-439-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 231.48px;
+}
+
+.home-tablet .trazado-235-1 {
+  height: 36px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 36px;
+}
+
+.home-tablet .trazado-236-1 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.home-tablet .trazado-237-1 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.home-tablet .trazado-238-1 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.home-tablet .trazado-239-1 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.home-tablet .trazado-240-1 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.home-tablet .trazado-24-3 {
+  height: 38px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 26px;
+}
+
+.home-tablet .hamburguesa-restaurante-tablet {
+  display: flex;
+  height: 17px;
+  justify-content: flex-end;
+  margin-right: 39.39px;
+  width: 40px;
+  z-index: 3;
+}
+
+.home-tablet .overlap-group6-1 {
+  height: 7156px;
+  margin-right: -2.0px;
+  position: relative;
+  width: 783px;
+  z-index: 1;
+}
+
+.home-tablet .grupo-438-1 {
+  display: flex;
+  height: 28px;
+  left: 641px;
+  position: absolute;
+  top: 2313px;
+  width: 26px;
+}
+
+.home-tablet .grupo-437-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 25.53px;
+}
+
+.home-tablet .overlap-group-container-2 {
+  height: 28px;
+  position: relative;
+  width: 26px;
+}
+
+.home-tablet .trazado-container-6 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 26px;
+}
+
+.home-tablet .trazado-23-2 {
+  height: 17px;
+  top: 1px;
+  width: 25px;
+}
+
+.home-tablet .trazado-23-3 {
+  height: 18px;
+  top: 0;
+  width: 26px;
+}
+
+.home-tablet .trazado-container-7 {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.home-tablet .trazado-294 {
+  height: 7156px;
+  left: 13px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 768px;
+}
+
+.home-tablet .bienvenido-a-la-nue-1 {
+  height: 859px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 979px;
+  width: 648px;
+}
+
+.home-tablet .span2 {
+  color: var(--white);
+  font-family: var(--font-family-sfprorounded-regular);
+  font-size: var(--font-size-xs);
+}
+
+.home-tablet .grupo-444-1 {
+  background-image: url(../img/grupo-443-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 450px;
+  left: 78px;
+  position: absolute;
+  top: 1698px;
+  width: 646px;
+}
+
+.home-tablet .grupo-446-1 {
+  background-image: url(../img/grupo-445-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 422px;
+  left: 78px;
+  position: absolute;
+  top: 2634px;
+  width: 646px;
+}
+
+.home-tablet .pararestaurantes-1 {
+  height: 157px;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 2179px;
+  width: 497px;
+}
+
+.home-tablet .name-1 {
+  height: 166px;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 2331px;
+  width: 593px;
+}
+
+.home-tablet .grupo-449-1 {
+  background-image: url(../img/grupo-448-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 495px;
+  left: 13px;
+  position: absolute;
+  top: 469px;
+  width: 768px;
+}
+
+.home-tablet .grupo-449-1 video {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.home-tablet .grupo-449-1 img {
+  object-fit: cover;
+}
+
+.home-tablet .la-app-para-la-caden-1 {
+  height: 389px;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 90px;
+  position: absolute;
+  top: 47px;
+  width: 707px;
+}
+
+.home-tablet .paraproveedores-1 {
+  height: 154px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: right;
+  top: 3086px;
+  width: 555px;
+}
+
+.home-tablet .seas-fabricante-o-di-1 {
+  height: 154px;
+  left: 172px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  text-align: right;
+  top: 3252px;
+  width: 546px;
+}
+
+.home-tablet .grupo-450-1 {
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 257px;
+  position: absolute;
+  top: 3407px;
+  transition: all 0.2s ease;
+  width: 280px;
+}
+
+.home-tablet .grupo-450-1:hover {
+  transform: scale(1.1);
+}
+
+.home-tablet .aprende-ms-2 {
+  margin-left: 26.3px;
+  margin-right: 24.7px;
+  margin-top: -29.1px;
+}
+
+.home-tablet .grupo-451-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 12px;
+  height: 18px;
+  left: 314px;
+  min-width: 165px;
+  position: absolute;
+  top: 4230px;
+}
+
+.home-tablet .elipse-50 {
+  background-color: var(--gray);
+  margin-bottom: 0;
+}
+
+.home-tablet .elipse-5 {
+  background-color: var(--white);
+  margin-bottom: 0;
+  opacity: 0.5;
+}
+
+.home-tablet .elipse-7 {
+  align-self: flex-start;
+  background-color: var(--white);
+  opacity: 0.5;
+}
+
+.home-tablet .usa-marketoo-para-ha-1 {
+  height: 236px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 4313px;
+  width: 649px;
+}
+
+.home-tablet .grupo-560-1 {
+  align-items: center;
+  background-color: var(--guardsman-red);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 788px;
+  padding: 33.7px 31.3px;
+  position: absolute;
+  top: 4617px;
+  width: 781px;
+}
+
+.home-tablet .grupo-458-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 12.93px;
+  margin-top: 71px;
+  min-width: 501px;
+}
+
+.home-tablet .grupo-456-1 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-249-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 210px;
+  justify-content: flex-end;
+  min-width: 113px;
+  padding: 69.7px 20.6px;
+}
+
+.home-tablet .trazado-container-8 {
+  height: 71px;
+  position: relative;
+  width: 72px;
+}
+
+.home-tablet .trazado-250-1 {
+  height: 27px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 44px;
+  width: 72px;
+}
+
+.home-tablet .trazado-251-1 {
+  height: 56px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 42px;
+}
+
+.home-tablet .grupo-455-1 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 37px;
+  margin-top: 0;
+  min-width: 103px;
+}
+
+.home-tablet .overlap-group-container-3 {
+  height: 69px;
+  position: relative;
+  width: 103px;
+}
+
+.home-tablet .trazado-container-9 {
+  height: 69px;
+  left: 55px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-tablet .trazado-24-4 {
+  height: 68px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 45px;
+}
+
+.home-tablet .trazado-24-5 {
+  height: 69px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-tablet .trazado-container-10 {
+  height: 69px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-tablet .trazado-container-11 {
+  height: 69px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.home-tablet .grupo-457-1 {
+  background-image: url(../img/trazado-252-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 201px;
+  margin-left: 31px;
+  margin-top: 0;
+  width: 217px;
+}
+
+.home-tablet .con-marketoo-premium-1 {
+  align-self: flex-end;
+  color: var(--white);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: 22px;
+  height: 168px;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: 82px;
+  width: 679px;
+}
+
+.home-tablet .sincronizar-tu-catl-1 {
+  height: 187px;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-right: 12.65px;
+  margin-top: 4px;
+  width: 628px;
+}
+
+.home-tablet .ahorra-tiempo-ahorr-1 {
+  height: 193px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 6462px;
+  width: 664px;
+}
+
+.home-tablet .aprovecha-los-benefi-1 {
+  height: 139px;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 6641px;
+  width: 652px;
+}
+
+.home-tablet .grupo-de-desplazamiento-4-1::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-tablet .grupo-de-desplazamiento-4-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 606px;
+  left: 78px;
+  min-width: 647px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 3545px;
+}
+
+.home-tablet .grupo-no-mas-pedidos-a-la-antigua-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-top: 0;
+  width: 566px;
+}
+
+.home-tablet .componente-72-2 {
+  background-image: url(../img/grupo-485-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 565.8px;
+}
+
+.home-tablet .grupo-487-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+  justify-content: flex-end;
+  margin-left: 0.4px;
+  margin-right: 0.4px;
+  min-width: calc(100.00% - 1px);
+  padding: 17.1px 142.9px;
+}
+
+.home-tablet .no-ms-pedidos-a-la-antigua-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 277px;
+}
+
+.home-tablet .grupo-ordenes-en-vivo-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  margin-top: 0;
+  width: 566px;
+}
+
+.home-tablet .componente-73-2 {
+  background-image: url(../img/enmascarar-grupo-481-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 565.6px;
+}
+
+.home-tablet .grupo-483-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+  justify-content: flex-end;
+  margin-right: 0;
+  min-width: 100%;
+  padding: 30.9px 136.2px;
+}
+
+.home-tablet .rdenes-en-vivo-1 {
+  height: 79px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 291px;
+}
+
+.home-tablet .grupo-ahrrate-tiempo-y-dinero-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  margin-top: 0;
+  width: 565px;
+}
+
+.home-tablet .componente-74-2 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-265-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565.0px;
+}
+
+.home-tablet .overlap-group-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 20.3px 134.6px;
+}
+
+.home-tablet .ahrrate-tiempo-y-dinero-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 294px;
+}
+
+.home-tablet .grupo-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 32px;
+  width: 565px;
+}
+
+.home-tablet .componente-75-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-474-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+  padding: 0.0px 0;
+}
+
+.home-tablet .overlap-group-6 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 14.3px 113.1px;
+}
+
+.home-tablet .entorno-digital-seguro-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 337px;
+}
+
+.home-tablet .grupo-gestiona-a-tu-equipo-1 {
+  align-self: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 566px;
+}
+
+.home-tablet .componente-76-2 {
+  background-image: url(../img/grupo-477-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 566.39px;
+}
+
+.home-tablet .grupo-479-1 {
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 155.51px;
+}
+
+.home-tablet .gestiona-a-tu-equipo-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  margin-bottom: 8.9px;
+  margin-left: 115.7px;
+  margin-right: 113.7px;
+  margin-top: 27.6px;
+  text-align: center;
+  width: 336.9px;
+}
+
+.home-tablet .grupo-diseado-para-ser-mvil-1 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 605px;
+  margin-left: 31px;
+  width: 565px;
+}
+
+.home-tablet .componente-77-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-467-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  margin-right: 0;
+  min-width: 565px;
+  padding: 0.0px 0;
+}
+
+.home-tablet .overlap-group-7 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 17.3px 123.2px;
+}
+
+.home-tablet .diseado-para-ser-mvil-1 {
+  height: 114px;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  text-align: center;
+  width: 318px;
+}
+
+.home-tablet .componente-78-2 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-470-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 565px;
+  padding: 0.0px 0;
+}
+
+.home-tablet .overlap-group-8 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 42px 42px 0px 0px;
+  display: flex;
+  height: 156px;
+  justify-content: flex-end;
+  min-width: 565px;
+  padding: 15.4px 113.7px;
+}
+
+.home-tablet .grupo-472-1 {
+  display: flex;
+  height: 112px;
+  width: 336px;
+}
+
+.home-tablet .soporte-estrella-michelin-1 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 43.1px;
+  margin-bottom: 5.9px;
+  margin-right: -2.0px;
+  margin-top: -7.9px;
+  text-align: center;
+  width: 335.51px;
+}
+
+.home-tablet .grupo-447-1 {
+  background-image: url(../img/trazado-283-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 257px;
+  position: absolute;
+  top: 2509px;
+  transition: all 0.2s ease;
+  width: 280px;
+}
+
+.home-tablet .grupo-447-1:hover {
+  transform: scale(1.1);
+}
+
+.home-tablet .aprende-ms-3 {
+  margin-left: 36.2px;
+  margin-right: 14.8px;
+  margin-top: -30.1px;
+}
+
+.home-tablet .grupo-585-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 184px;
+  left: 29px;
+  min-width: 735px;
+  padding: 0.0px 140.2px;
+  position: absolute;
+  top: 6834px;
+}
+
+.home-tablet .overlap-group5-1 {
+  height: 161px;
+  position: relative;
+  width: 454px;
+}
+
+.home-tablet .overlap-group-9 {
+  height: 161px;
+  margin-bottom: 0;
+  position: relative;
+  width: 424px;
+}
+
+.home-tablet .componente-157-6 {
+  display: flex;
+  flex: 1;
+  width: 204.5px;
+}
+
+.home-tablet .formulario-1 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  left: 36px;
+  min-width: 377px;
+  padding: 0.0px 87.1px;
+  position: absolute;
+  top: 67px;
+}
+
+.home-tablet .chef-1 {
+  border-radius: 38px;
+  height: 652px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 5654px;
+  width: 652px;
+}
+
+.home-tablet .explora-el-catlogo-de-productos-1 {
+  height: 193px;
+  left: 78px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 5453px;
+  width: 664px;
+}
+
+.home-tablet .grupo-587 {
+  background-color: var(--guardsman-red);
+  border-radius: 27.46px;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  left: 257px;
+  position: absolute;
+  top: 6364px;
+  transition: all 0.2s ease;
+  width: 280px;
+}
+
+.home-tablet .grupo-587:hover {
+  transform: scale(1.1);
+}
+
+.home-tablet .encuentra-1 {
+  flex: 1;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 90.3px;
+  margin-left: 26.3px;
+  margin-right: 24.7px;
+  margin-top: -29.1px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-tablet .grupo-617-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 29px;
+  height: 38px;
+  left: 133px;
+  min-width: 541px;
+  position: absolute;
+  top: 7071px;
+}
+
+.home-tablet .text-7 {
+  margin-top: -2.51px;
+}
+
+.home-tablet .text-8 {
+  margin-top: -5.51px;
+}
+
+.home-tablet .aprende-ms {
+  flex: 1;
+  height: 31px;
+  letter-spacing: 0;
+  line-height: 90.3px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-tablet .elipse {
+  border-radius: 8.84px;
+  height: 18px;
+  width: 18px;
+}
+
+.home-tablet .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 37px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+
+.home-tablet .trazado-23 {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - home-telefono-all-breakpoints */
+
+.home-telefono-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 3261.27px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.home-telefono-all-breakpoints .overlap-group6-2 {
+  height: 3212px;
+  margin-left: -9px;
+  margin-top: 50px;
+  position: relative;
+  width: 378px;
+  z-index: 1;
+}
+
+.home-telefono-all-breakpoints .rectngulo-210 {
+  background-color: var(--black);
+  height: 3212px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 360px;
+}
+
+.home-telefono-all-breakpoints .seas-fabricante-o-di-2 {
+  height: 36px;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  text-align: right;
+  top: 1640px;
+  width: 291px;
+}
+
+.home-telefono-all-breakpoints .la-app-para-la-caden-2 {
+  height: 105px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 26.9px;
+  position: absolute;
+  top: 20px;
+  width: 302px;
+}
+
+.home-telefono-all-breakpoints .grupo-382 {
+  background-image: url(../img/grupo-381@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 322px;
+  left: 8px;
+  position: absolute;
+  top: 121px;
+  width: 362px;
+}
+
+.home-telefono-all-breakpoints .bienvenido-a-la-nue-2 {
+  height: 215px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  text-align: center;
+  top: 454px;
+  width: 301px;
+}
+
+.home-telefono-all-breakpoints .span-2 {
+  color: var(--guardsman-red);
+  font-family: var(--font-family-cindiemono-a);
+  font-size: var(--font-size-xxxxs);
+}
+
+.home-telefono-all-breakpoints .grupo-384 {
+  background-image: url(../img/grupo-383@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 340px;
+  left: 39px;
+  position: absolute;
+  top: 729px;
+  width: 300px;
+}
+
+.home-telefono-all-breakpoints .grupo-386 {
+  background-image: url(../img/grupo-385@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 340px;
+  left: 39px;
+  position: absolute;
+  top: 1243px;
+  width: 300px;
+}
+
+.home-telefono-all-breakpoints .title {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 33px;
+  height: 57px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 41.0px;
+  position: absolute;
+  top: 1075px;
+  width: 303px;
+}
+
+.home-telefono-all-breakpoints .name-2 {
+  height: 78px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 1119px;
+  width: 303px;
+}
+
+.home-telefono-all-breakpoints .grupo-387 {
+  background-color: var(--guardsman-red);
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 39px;
+  position: absolute;
+  top: 1190px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.home-telefono-all-breakpoints .grupo-387:hover {
+  transform: scale(1.1);
+}
+
+.home-telefono-all-breakpoints .grupo-388 {
+  background-color: var(--guardsman-red);
+  border-radius: 9.76px;
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 264px;
+  position: absolute;
+  top: 1683px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.home-telefono-all-breakpoints .grupo-388:hover {
+  transform: scale(1.1);
+}
+
+.home-telefono-all-breakpoints .para-proveedores {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 33px;
+  height: 58px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 41.0px;
+  position: absolute;
+  text-align: right;
+  top: 1597px;
+  width: 302px;
+}
+
+.home-telefono-all-breakpoints .grupo-389 {
+  align-items: flex-start;
+  display: flex;
+  gap: 3px;
+  height: 4px;
+  left: 164px;
+  min-width: 49px;
+  position: absolute;
+  top: 2066px;
+}
+
+.home-telefono-all-breakpoints .elipse-43 {
+  background-color: var(--gray);
+}
+
+.home-telefono-all-breakpoints .elipse-4 {
+  background-color: var(--white);
+  opacity: 0.5;
+}
+
+.home-telefono-all-breakpoints .usa-marketoo-para-ha-2 {
+  height: 69px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  text-align: center;
+  top: 2097px;
+  width: 303px;
+}
+
+.home-telefono-all-breakpoints .rectngulo-220 {
+  background-color: var(--guardsman-red);
+  height: 281px;
+  left: 0;
+  position: absolute;
+  top: 2198px;
+  width: 378px;
+}
+
+.home-telefono-all-breakpoints .grupo-396 {
+  align-items: center;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  left: 107px;
+  min-width: 165px;
+  position: absolute;
+  top: 2228px;
+}
+
+.home-telefono-all-breakpoints .grupo-394 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-218@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 69px;
+  justify-content: flex-end;
+  min-width: 37px;
+  padding: 23.0px 6.8px;
+}
+
+.home-telefono-all-breakpoints .trazado-container-12 {
+  height: 23px;
+  position: relative;
+  width: 24px;
+}
+
+.home-telefono-all-breakpoints .trazado-219 {
+  height: 9px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 24px;
+}
+
+.home-telefono-all-breakpoints .trazado-220 {
+  height: 18px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.home-telefono-all-breakpoints .grupo-393 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-left: 12px;
+  min-width: 34px;
+}
+
+.home-telefono-all-breakpoints .overlap-group-container-4 {
+  height: 23px;
+  margin-top: 0;
+  position: relative;
+  width: 34px;
+}
+
+.home-telefono-all-breakpoints .trazado-container-13 {
+  height: 23px;
+  left: 18px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home-telefono-all-breakpoints .trazado-21 {
+  height: 22px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+
+.home-telefono-all-breakpoints .trazado-21-1 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home-telefono-all-breakpoints .trazado-container-14 {
+  height: 23px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home-telefono-all-breakpoints .trazado-container-15 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 16px;
+}
+
+.home-telefono-all-breakpoints .grupo-395 {
+  background-image: url(../img/trazado-221@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  margin-left: 10px;
+  width: 72px;
+}
+
+.home-telefono-all-breakpoints .sincronizar-tu-catl-2 {
+  height: 61px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  top: 2399px;
+  width: 302px;
+}
+
+.home-telefono-all-breakpoints .con-marketoo-premium-2 {
+  height: 144px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+  position: absolute;
+  top: 2329px;
+  width: 301px;
+}
+
+.home-telefono-all-breakpoints .ahorra-tiempo-ahorr-2 {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 22.1px;
+  height: 82px;
+  left: 87px;
+  letter-spacing: 0;
+  line-height: 20.1px;
+  position: absolute;
+  text-align: center;
+  top: 2936px;
+  width: 205px;
+}
+
+.home-telefono-all-breakpoints .aprovecha-los-benefi-2 {
+  height: 50px;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  position: absolute;
+  text-align: center;
+  top: 3011px;
+  width: 259px;
+}
+
+.home-telefono-all-breakpoints .grupo-400 {
+  display: flex;
+  height: 10px;
+  left: 185px;
+  position: absolute;
+  top: 690px;
+  width: 9px;
+}
+
+.home-telefono-all-breakpoints .grupo-399 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 9.18px;
+  padding: 0.1px 0.0px;
+}
+
+.home-telefono-all-breakpoints .grupo-container {
+  height: 10px;
+  position: relative;
+  width: 9px;
+}
+
+.home-telefono-all-breakpoints .grupo-397 {
+  background-image: url(../img/trazado-222@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 9px;
+}
+
+.home-telefono-all-breakpoints .trazado-22 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 9.18px;
+}
+
+.home-telefono-all-breakpoints .grupo-398 {
+  background-image: url(../img/trazado-224@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.home-telefono-all-breakpoints .grupo-de-desplazamiento-7::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.home-telefono-all-breakpoints .grupo-de-desplazamiento-7 {
+  align-items: flex-start;
+  display: flex;
+  height: 333px;
+  left: 10px;
+  min-width: 360px;
+  overflow-x: scroll;
+  position: absolute;
+  top: 1718px;
+}
+
+.home-telefono-all-breakpoints .grupo-no-mas-pedidos-a-la-antigua-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 333px;
+  width: 311px;
+}
+
+.home-telefono-all-breakpoints .componente-79-1 {
+  background-image: url(../img/grupo-418@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 311.05px;
+}
+
+.home-telefono-all-breakpoints .grupo-420 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 85.49px;
+  justify-content: flex-end;
+  margin-right: 0.2px;
+  min-width: 100%;
+  padding: 8.5px 77.8px;
+}
+
+.home-telefono-all-breakpoints .no-ms-pedidos-a-la-antigua-2 {
+  height: 64px;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  text-align: center;
+  width: 153px;
+}
+
+.home-telefono-all-breakpoints .grupo-ordenes-en-vivo-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 333px;
+  margin-left: 17px;
+  width: 311px;
+}
+
+.home-telefono-all-breakpoints .componente-80-1 {
+  background-image: url(../img/grupo-422@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 310.74px;
+}
+
+.home-telefono-all-breakpoints .grupo-424 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 85.49px;
+  justify-content: flex-end;
+  margin-left: 0.1px;
+  margin-right: 0.1px;
+  min-width: 100%;
+  padding: 16.1px 74.0px;
+}
+
+.home-telefono-all-breakpoints .rdenes-en-vivo-2 {
+  height: 44px;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  text-align: center;
+  width: 161px;
+}
+
+.home-telefono-all-breakpoints .grupo-2 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 333px;
+  margin-left: 17px;
+  margin-top: 0;
+  width: 311px;
+}
+
+.home-telefono-all-breakpoints .componente-81-1 {
+  align-items: flex-start;
+  background-image: url(../img/rect-ngulo-227@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-right: 0;
+  min-width: 310.61px;
+}
+
+.home-telefono-all-breakpoints .overlap-group-10 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25.22px 25.22px 0px 0px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 311px;
+  padding: 10.3px 73.1px;
+}
+
+.home-telefono-all-breakpoints .ahrrate-tiempo-y-dinero-2 {
+  height: 64px;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  text-align: center;
+  width: 162px;
+}
+
+.home-telefono-all-breakpoints .grupo-3 {
+  display: flex;
+  flex: 0 0 auto;
+  height: 333px;
+  margin-left: 18px;
+  margin-top: 0;
+  width: 311px;
+}
+
+.home-telefono-all-breakpoints .componente-82-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-415@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  min-width: 310.61px;
+}
+
+.home-telefono-all-breakpoints .overlap-group-11 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25.22px 25.22px 0px 0px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 311px;
+  padding: 7.0px 61.3px;
+}
+
+.home-telefono-all-breakpoints .entorno-digital-seguro-2 {
+  height: 64px;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  text-align: center;
+  width: 186px;
+}
+
+.home-telefono-all-breakpoints .grupo-gestiona-a-tu-equipo-2 {
+  align-self: flex-end;
+  display: flex;
+  flex: 0 0 auto;
+  height: 333px;
+  margin-left: 17px;
+  width: 311px;
+}
+
+.home-telefono-all-breakpoints .componente-83-1 {
+  background-image: url(../img/grupo-426@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  width: 310.77px;
+}
+
+.home-telefono-all-breakpoints .grupo-428 {
+  background-color: var(--white);
+  display: flex;
+  flex: 1;
+  height: 85.49px;
+}
+
+.home-telefono-all-breakpoints .gestiona-a-tu-equipo-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  margin-bottom: 4.0px;
+  margin-left: 63.6px;
+  margin-right: 61.6px;
+  margin-top: 15.2px;
+  text-align: center;
+  width: 185.5px;
+}
+
+.home-telefono-all-breakpoints .componente-84-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-408@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 310.61px;
+  padding: 0.0px 0;
+}
+
+.home-telefono-all-breakpoints .overlap-group-12 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25.22px 25.22px 0px 0px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 311px;
+  padding: 8.6px 66.8px;
+}
+
+.home-telefono-all-breakpoints .diseado-para-ser-mvil-2 {
+  height: 64px;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  text-align: center;
+  width: 175px;
+}
+
+.home-telefono-all-breakpoints .componente-85-1 {
+  align-items: flex-start;
+  background-image: url(../img/grupo-411@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  margin-right: 0;
+  min-width: 310.61px;
+}
+
+.home-telefono-all-breakpoints .overlap-group-13 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 21.5px 21.5px 0px 0px;
+  display: flex;
+  height: 85px;
+  justify-content: flex-end;
+  min-width: 311px;
+  padding: 8.4px 61.6px;
+}
+
+.home-telefono-all-breakpoints .grupo-413 {
+  display: flex;
+  height: 62px;
+  width: 185px;
+}
+
+.home-telefono-all-breakpoints .soporte-estrella-michelin-2 {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 23.7px;
+  margin-bottom: 2.4px;
+  margin-right: -2.0px;
+  margin-top: -4.4px;
+  text-align: center;
+  width: 185.35px;
+}
+
+.home-telefono-all-breakpoints .grupo-584 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 88px;
+  left: 14px;
+  min-width: 351px;
+  padding: 0 66.7px;
+  position: absolute;
+  top: 3074px;
+}
+
+.home-telefono-all-breakpoints .overlap-group5-2 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 217px;
+}
+
+.home-telefono-all-breakpoints .grupo-580-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-291-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 217px;
+  padding: 0 6.7px;
+  position: absolute;
+  top: 0;
+}
+
+.home-telefono-all-breakpoints .overlap-group-14 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 203px;
+}
+
+.home-telefono-all-breakpoints .componente-157-5 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  width: 97.66px;
+}
+
+.home-telefono-all-breakpoints .chef-2 {
+  border-radius: 18px;
+  height: 298px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 2568px;
+  width: 298px;
+}
+
+.home-telefono-all-breakpoints .explora-el-catlogo-de-productos-2 {
+  color: var(--white);
+  font-family: var(--font-family-filmotypegem);
+  font-size: 22.1px;
+  height: 82px;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 20.1px;
+  position: absolute;
+  text-align: center;
+  top: 2501px;
+  width: 302px;
+}
+
+.home-telefono-all-breakpoints .grupo-588 {
+  background-color: var(--guardsman-red);
+  border-radius: 9.76px;
+  cursor: pointer;
+  display: flex;
+  height: 20px;
+  left: 152px;
+  position: absolute;
+  top: 2891px;
+  transition: all 0.2s ease;
+  width: 75px;
+}
+
+.home-telefono-all-breakpoints .grupo-588:hover {
+  transform: scale(1.1);
+}
+
+.home-telefono-all-breakpoints .encuentra-2 {
+  flex: 1;
+  height: 13px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  margin-left: 8.7px;
+  margin-right: 9.2px;
+  margin-top: -5.0px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-telefono-all-breakpoints .grupo-617-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 72px;
+  min-width: 236px;
+  position: absolute;
+  top: 3176px;
+}
+
+.home-telefono-all-breakpoints .text-13 {
+  margin-top: -4.5px;
+}
+
+.home-telefono-all-breakpoints .text-14 {
+  margin-top: -6.5px;
+}
+
+.home-telefono-all-breakpoints .grupo-376 {
+  display: flex;
+  height: 16.3px;
+  margin-left: 14.9px;
+  margin-top: -8.1px;
+  width: 98.77px;
+}
+
+.home-telefono-all-breakpoints .grupo-37 {
+  display: flex;
+  flex: 1;
+  width: 98.77px;
+}
+
+.home-telefono-all-breakpoints .grupo-373 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 98.77px;
+  padding: 0 0.0px;
+}
+
+.home-telefono-all-breakpoints .grupo-37-1 {
+  background-image: url(../img/trazado-209-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.home-telefono-all-breakpoints .grupo-379 {
+  background-image: url(../img/trazado-211-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.home-telefono-all-breakpoints .aprende-ms {
+  flex: 1;
+  height: 13px;
+  letter-spacing: 0;
+  line-height: 21.7px;
+  margin-left: 8.7px;
+  margin-right: 9.2px;
+  margin-top: -5.0px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.home-telefono-all-breakpoints .elipse {
+  border-radius: 2.15px;
+  height: 4px;
+  width: 4px;
+}
+
+.home-telefono-all-breakpoints .text {
+  letter-spacing: 0;
+  line-height: 29px;
+  margin-left: 12px;
+  min-height: 18px;
+  min-width: 9px;
+  white-space: nowrap;
+}
+@media screen and (max-width: 767px) {
+  .screen.home-desktop { 
+    display: none;
+   }
+  .screen.home-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  .screen.home-desktop { 
+    display: none;
+   }
+  .screen.home-telefono-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1281px) {
+  .screen.home-tablet { 
+    display: none;
+   }
+  .screen.home-telefono-all-breakpoints { 
+    display: none;
+   }
+}

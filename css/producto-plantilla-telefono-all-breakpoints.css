@@ -1,0 +1,888 @@
+/* screen - producto-plantilla-desktop */
+
+.producto-plantilla-desktop {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1313.14px;
+  width: 1281px;
+}
+
+.producto-plantilla-desktop .overlap-group2 {
+  height: 1281px;
+  margin-top: 31.81px;
+  position: relative;
+  width: 1281px;
+  z-index: 1;
+}
+
+.producto-plantilla-desktop .rectngulo-37 {
+  background-color: var(--black);
+  height: 1247px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 1281px;
+}
+
+.producto-plantilla-desktop .accede-a-la-forma-m {
+  height: 104px;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+  position: absolute;
+  text-align: center;
+  top: 713px;
+  width: 1049px;
+}
+
+.producto-plantilla-desktop .nete-al-marketplace {
+  height: 87px;
+  left: 105px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: center;
+  top: 604px;
+  width: 1073px;
+}
+
+.producto-plantilla-desktop .grupo-585 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 311px;
+  left: 20px;
+  min-width: 1242px;
+  padding: 0.0px 236px;
+  position: absolute;
+  top: 851px;
+}
+
+.producto-plantilla-desktop .overlap-group1 {
+  background-color: var(--nobel);
+  border-radius: 100px 100px 0px 0px;
+  height: 271px;
+  position: relative;
+  width: 769px;
+}
+
+.producto-plantilla-desktop .overlap-group {
+  height: 271px;
+  left: 26px;
+  position: absolute;
+  top: 0;
+  width: 717px;
+}
+
+.producto-plantilla-desktop .componente-157-17 {
+  display: flex;
+  flex: 1;
+  width: 345.52px;
+}
+
+.producto-plantilla-desktop .formulario {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 113px;
+  left: 66px;
+  min-width: 637px;
+  padding: 0.0px 155.7px;
+  position: absolute;
+  top: 104px;
+}
+
+.producto-plantilla-desktop .grupo-617 {
+  align-items: flex-start;
+  display: flex;
+  height: 43px;
+  left: 335px;
+  min-width: 613px;
+  position: absolute;
+  top: 1191px;
+}
+
+.producto-plantilla-desktop .text-25 {
+  margin-left: 30px;
+  margin-top: -0.01px;
+}
+
+.producto-plantilla-desktop .text-26 {
+  margin-left: 33px;
+  margin-top: -3.01px;
+}
+
+.producto-plantilla-desktop .grupo-620 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 80px;
+  display: flex;
+  gap: 68px;
+  height: 483px;
+  justify-content: flex-end;
+  left: 118px;
+  min-width: 1045px;
+  padding: 43px 49px;
+  position: absolute;
+  top: 93px;
+}
+
+.producto-plantilla-desktop .enmascarar-grupo-482 {
+  height: 380px;
+  object-fit: cover;
+  width: 380px;
+}
+
+.producto-plantilla-desktop .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 340px;
+  width: 438px;
+}
+
+.producto-plantilla-desktop .grupo-619 {
+  background-image: url(../img/trazado-311@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 120px;
+  width: 438px;
+}
+
+.producto-plantilla-desktop .lechuga-escarola {
+  color: var(--black);
+  flex: 1;
+  font-family: var(--font-family-cindiemono_a-regular);
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-bottom: 10.0px;
+  margin-left: 11px;
+  margin-right: 7px;
+  margin-top: -7.5px;
+  text-align: center;
+  width: 420px;
+}
+
+.producto-plantilla-desktop .ubicacin-guatemala {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 2.0px;
+  margin-top: 17px;
+  min-height: 36px;
+  min-width: 260px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-desktop .te-interesa-este-producto {
+  color: var(--black);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 2.0px;
+  margin-top: 28px;
+  min-height: 36px;
+  min-width: 318px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-desktop .grupo-618 {
+  align-items: flex-end;
+  background-color: var(--monza);
+  border-radius: 44px;
+  display: flex;
+  height: 87px;
+  justify-content: flex-end;
+  margin-top: 16px;
+  min-width: 294px;
+  padding: 5.5px 98px;
+}
+
+.producto-plantilla-desktop .cotiza {
+  color: var(--white);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 35px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  min-height: 43px;
+  min-width: 96px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-desktop .home-desktop-vinculo-a-productos {
+  height: 37px;
+  left: 1126px;
+  position: absolute;
+  top: 0;
+  width: 119px;
+}
+
+.producto-plantilla-desktop .grupo-545 {
+  align-items: center;
+  background-image: url(../img/trazado-296-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 95px;
+  left: 0;
+  min-width: 1280px;
+  padding: 5.0px 65.1px;
+  position: fixed;
+  top: 0;
+  z-index: 2;
+}
+
+.producto-plantilla-desktop .proveedor-tablet-vinculo-a-home {
+  cursor: pointer;
+  display: flex;
+  height: 51px;
+  margin-top: 7.0px;
+  transition: all 0.2s ease;
+  width: 308px;
+}
+
+.producto-plantilla-desktop .proveedor-tablet-vinculo-a-home:hover {
+  transform: scale(1.1);
+}
+
+.producto-plantilla-desktop .grupo-90:hover {
+  transform: scale(1.1);
+}
+
+.producto-plantilla-desktop .trazado-280 {
+  height: 65px;
+  margin-left: 235px;
+  margin-top: 6.16px;
+  object-fit: cover;
+  width: 66px;
+}
+
+.producto-plantilla-desktop .home-desktop-vinculo-a-restaurantes {
+  align-self: flex-end;
+  height: 58px;
+  margin-left: 91px;
+  width: 159px;
+}
+
+.producto-plantilla-desktop .home-desktop-vinculo-a-proveedores {
+  align-self: flex-end;
+  height: 58px;
+  margin-left: 28px;
+  width: 145px;
+}
+
+.producto-plantilla-desktop .home-desktop-vinculo-a {
+  cursor: pointer;
+  display: flex;
+}
+
+.producto-plantilla-desktop .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 42px;
+  min-width: 20px;
+  white-space: nowrap;
+}
+/* screen - producto-plantilla-tablet */
+
+.producto-plantilla-tablet {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1225.14px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.producto-plantilla-tablet .overlap-group2-1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  margin-top: 95px;
+  min-height: 1130px;
+  padding: 2px 0;
+  width: 768px;
+  z-index: 1;
+}
+
+.producto-plantilla-tablet .grupo-621 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 80px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  min-height: 650px;
+  padding: 29.5px 106.0px;
+  width: 571px;
+}
+
+.producto-plantilla-tablet .grupo-619-1 {
+  align-self: flex-start;
+  background-image: url(../img/trazado-311-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 94px;
+  width: 358px;
+}
+
+.producto-plantilla-tablet .lechuga-escarola-1 {
+  color: var(--black);
+  flex: 1;
+  font-family: var(--font-family-cindiemono_a-regular);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 37.5px;
+  margin-bottom: 8.5px;
+  margin-left: 9.4px;
+  margin-right: 5.0px;
+  margin-top: -6.2px;
+  text-align: center;
+  width: 344px;
+}
+
+.producto-plantilla-tablet .enmascarar-grupo-482-1 {
+  height: 311px;
+  margin-top: 5px;
+  object-fit: cover;
+  width: 311px;
+}
+
+.producto-plantilla-tablet .ubicacin-guatemala-1 {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-left: 3.0px;
+  margin-top: 24px;
+  min-height: 28px;
+  min-width: 204px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-tablet .te-interesa-este-producto-1 {
+  color: var(--black);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 8px;
+  margin-left: 3.0px;
+  margin-top: 13px;
+  min-height: 28px;
+  min-width: 250px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-tablet .grupo-618-1 {
+  align-items: flex-end;
+  background-color: var(--monza);
+  border-radius: 44px;
+  display: flex;
+  height: 71px;
+  margin-left: 1.0px;
+  margin-top: 4px;
+  min-width: 240px;
+  padding: 3px 81px;
+}
+
+.producto-plantilla-tablet .cotiza-1 {
+  color: var(--white);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 8px;
+  min-height: 36px;
+  min-width: 78px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-tablet .nete-al-marketplace-1 {
+  height: 71px;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-left: 0.43px;
+  margin-top: 15px;
+  text-align: center;
+  white-space: nowrap;
+  width: 599px;
+}
+
+.producto-plantilla-tablet .descarga-la-app-y-ac {
+  color: var(--white);
+  font-family: var(--font-family-sfprorounded-regular);
+  font-size: 23px;
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 35px;
+  margin-left: 1.0px;
+  margin-top: 10px;
+  text-align: center;
+  width: 690px;
+}
+
+.producto-plantilla-tablet .grupo-585-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 184px;
+  margin-top: 26px;
+  min-width: 735px;
+  padding: 0.0px 140.2px;
+}
+
+.producto-plantilla-tablet .overlap-group1-1 {
+  height: 161px;
+  position: relative;
+  width: 454px;
+}
+
+.producto-plantilla-tablet .overlap-group-1 {
+  height: 161px;
+  margin-bottom: 0;
+  position: relative;
+  width: 424px;
+}
+
+.producto-plantilla-tablet .componente-157-18 {
+  display: flex;
+  flex: 1;
+  width: 204.5px;
+}
+
+.producto-plantilla-tablet .formulario-1 {
+  align-items: flex-start;
+  background-image: url(../img/trazado-293-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 67px;
+  justify-content: flex-end;
+  left: 36px;
+  min-width: 377px;
+  padding: 0.0px 87.1px;
+  position: absolute;
+  top: 67px;
+}
+
+.producto-plantilla-tablet .grupo-617-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 29px;
+  height: 38px;
+  margin-left: 2.0px;
+  margin-top: 22px;
+  min-width: 541px;
+}
+
+.producto-plantilla-tablet .text-27 {
+  margin-top: -2.51px;
+}
+
+.producto-plantilla-tablet .text-28 {
+  margin-top: -5.51px;
+}
+
+.producto-plantilla-tablet .grupo-442 {
+  cursor: pointer;
+  display: flex;
+  height: 38.21px;
+  margin-left: 38.1px;
+  margin-top: -19.1px;
+  transition: all 0.2s ease;
+  width: 231.48px;
+}
+
+.producto-plantilla-tablet .grupo-442:hover {
+  transform: scale(1.1);
+}
+
+.producto-plantilla-tablet .grupo-44 {
+  display: flex;
+  flex: 1;
+  width: 231.48px;
+}
+
+.producto-plantilla-tablet .grupo-439 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 231.48px;
+}
+
+.producto-plantilla-tablet .trazado-235 {
+  height: 36px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 36px;
+}
+
+.producto-plantilla-tablet .trazado-236 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 31px;
+}
+
+.producto-plantilla-tablet .trazado-237 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 27px;
+}
+
+.producto-plantilla-tablet .trazado-238 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 3px;
+  object-fit: cover;
+  width: 29px;
+}
+
+.producto-plantilla-tablet .trazado-239 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.producto-plantilla-tablet .trazado-240 {
+  height: 36px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 23px;
+}
+
+.producto-plantilla-tablet .trazado-24 {
+  height: 38px;
+  margin-left: 2px;
+  object-fit: cover;
+  width: 26px;
+}
+
+.producto-plantilla-tablet .hamburguesa-restaurante-tablet {
+  display: flex;
+  height: 16.93px;
+  justify-content: flex-end;
+  margin-right: 39.4px;
+  margin-top: -8.5px;
+  width: 40.08px;
+}
+
+.producto-plantilla-tablet .text {
+  letter-spacing: 0;
+  line-height: 46.0px;
+  min-height: 37px;
+  min-width: 17px;
+  white-space: nowrap;
+}
+/* screen - producto-plantilla-telefono-all-breakpoints */
+
+.producto-plantilla-telefono-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 668.59px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .overlap-group2-2 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  margin-top: 46px;
+  min-height: 623px;
+  padding: 7.7px 4px;
+  width: 360px;
+  z-index: 1;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-621-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 42px;
+  display: flex;
+  flex-direction: column;
+  min-height: 382px;
+  padding: 14.9px 55.8px;
+  width: 322px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-619-2 {
+  align-self: flex-end;
+  background-image: url(../img/trazado-311-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 55px;
+  width: 210px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .lechuga-escarola-2 {
+  color: var(--black);
+  flex: 1;
+  font-family: var(--font-family-cindiemono_a-regular);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-bottom: 4.0px;
+  margin-left: 5.5px;
+  margin-right: 2.1px;
+  margin-top: -3.5px;
+  text-align: center;
+  width: 202.62px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .enmascarar-grupo-482-2 {
+  height: 182px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  object-fit: cover;
+  width: 181px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .ubicacin-guatemala-2 {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-left: 2.0px;
+  margin-top: 14px;
+  min-height: 16px;
+  min-width: 112px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-telefono-all-breakpoints .te-interesa-este-producto-2 {
+  color: var(--black);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 4px;
+  margin-left: 2.0px;
+  margin-top: 6px;
+  min-height: 20px;
+  min-width: 172px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-618-2 {
+  align-items: flex-end;
+  background-color: var(--monza);
+  border-radius: 44px;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 2px;
+  min-width: 141px;
+  padding: 2.5px 47px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .cotiza-2 {
+  color: var(--white);
+  font-family: var(--font-family-sfpro_rounded-regular);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 4px;
+  min-height: 21px;
+  min-width: 46px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.producto-plantilla-telefono-all-breakpoints .nete-al-marketplace-2 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 20.3px;
+  margin-left: 2.4px;
+  margin-top: 14px;
+  text-align: center;
+  width: 308px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .descarga-la-app-y-ac-1 {
+  height: 46px;
+  letter-spacing: 0;
+  line-height: 13.4px;
+  margin-left: 2.13px;
+  margin-top: 6px;
+  text-align: center;
+  width: 300px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-582 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-292-11@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 88px;
+  margin-left: 1.0px;
+  margin-top: 9px;
+  min-width: 351px;
+  padding: 0 66.7px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .overlap-group1-2 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 217px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-580-1 {
+  align-items: flex-end;
+  background-image: url(../img/trazado-291-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 77px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 217px;
+  padding: 0 6.7px;
+  position: absolute;
+  top: 0;
+}
+
+.producto-plantilla-telefono-all-breakpoints .overlap-group-2 {
+  height: 77px;
+  margin-bottom: 0;
+  position: relative;
+  width: 203px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .componente-157-19 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  width: 97.66px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-617-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  margin-left: 4.0px;
+  margin-top: 10px;
+  min-width: 236px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .text-29 {
+  margin-top: -4.5px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .text-30 {
+  margin-top: -6.5px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-376 {
+  display: flex;
+  height: 16.3px;
+  margin-left: 14.9px;
+  margin-top: -8.1px;
+  width: 98.77px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-373 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  min-width: 98.77px;
+  padding: 0 0.0px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-37 {
+  background-image: url(../img/trazado-209-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .grupo-379 {
+  background-image: url(../img/trazado-211-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 0;
+  width: 20px;
+}
+
+.producto-plantilla-telefono-all-breakpoints .text {
+  letter-spacing: 0;
+  line-height: 29px;
+  margin-left: 12px;
+  min-height: 18px;
+  min-width: 9px;
+  white-space: nowrap;
+}
+@media screen and (max-width: 767px) {
+  .screen.producto-plantilla-desktop { 
+    display: none;
+   }
+  .screen.producto-plantilla-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  .screen.producto-plantilla-desktop { 
+    display: none;
+   }
+  .screen.producto-plantilla-telefono-all-breakpoints { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1281px) {
+  .screen.producto-plantilla-tablet { 
+    display: none;
+   }
+  .screen.producto-plantilla-telefono-all-breakpoints { 
+    display: none;
+   }
+}
