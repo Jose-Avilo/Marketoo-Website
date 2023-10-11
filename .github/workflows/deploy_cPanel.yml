@@ -15,11 +15,6 @@ jobs:
 
       - name: Deploy to Hosting
         run: |
-          HOSTNAME: 184.168.30.235
-          USERNAME: ${{ secrets.FTP_USERNAME }}
-          PASSWORD: ${{ secrets.FTP_PASSWORD }}
-          LOCAL_DIR: /c/Users/jomia/'OneDrive - Marketoo'/'Fase 1 - Ignition'/Marketing/Website/Script/Codigo
-          REMOTE_DIR: ./public_html/
+          sshpass -p ${{ secrets.SSH_PRIVATE_KEY }} rsync -r --delete-after https://github.com/Jose-Avilo/Marketoo-Website.git/ adminmarketoo/184.168.30.235/public_html
 
-          lftp -e "open -u $USERNAME,$PASSWORD $HOSTNAME; mirror -R $LOCAL_DIR $REMOTE_DIR; exit"
 
