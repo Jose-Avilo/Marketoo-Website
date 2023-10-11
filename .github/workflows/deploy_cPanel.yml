@@ -3,7 +3,7 @@ name: Deploy to Hosting
 on:
   push:
     branches:
-      - main
+      - main  # Cambia 'main' al nombre de tu rama principal si es diferente
 
 jobs:
   deploy:
@@ -14,9 +14,10 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Deploy to Hosting
-      run: |
-        ssh USER@HOST "cd /public_html && git reset --hard && git pull origin main"
-      env:
-        USER: ${{ secrets.SSH_USER }}
-        HOST: ${{ secrets.SSH_HOST }}
-      if: github.event.ref == 'refs/heads/main'
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        local-dir: https://github.com/Jose-Avilo/Marketoo-Website.git
+        remote-dir: public_html
