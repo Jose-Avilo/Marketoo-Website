@@ -1,20 +1,25 @@
+name: Deploy to Hosting Server
+
 on:
   push:
     branches:
       - main
-name: Deploy website on push
+
 jobs:
-  web-deploy:
-    name: Deploy
+  deploy:
     runs-on: ubuntu-latest
+
     steps:
-    - name: Get latest code
-      uses: actions/checkout@v3
-    
-    - name: Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        server: 184.168.30.235
-        username: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }}
-        local-dir: ~/public_html/
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Deploy to Hosting
+        run: |
+          HOSTNAME: 184.168.30.235
+          USERNAME: ${{ secrets.FTP_USERNAME }}
+          PASSWORD: ${{ secrets.FTP_PASSWORD }}
+          LOCAL_DIR: /c/Users/jomia/'OneDrive - Marketoo'/'Fase 1 - Ignition'/Marketing/Website/Script/Codigo
+          REMOTE_DIR: ./public_html/
+
+          lftp -e "open -u $USERNAME,$PASSWORD $HOSTNAME; mirror -R $LOCAL_DIR $REMOTE_DIR; exit"
+
