@@ -1,4 +1,4 @@
-name: Deploy to Hosting Server
+name: Deploy to Hosting
 
 on:
   push:
@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+    - name: Checkout Repository
+      uses: actions/checkout@v2
 
-      - name: Deploy to Hosting
-        run: |
-          sshpass -p ${{ secrets.SSH_PRIVATE_KEY }} rsync -r --delete-after https://github.com/Jose-Avilo/Marketoo-Website.git/ adminmarketoo/184.168.30.235/public_html
-
-
+    - name: Deploy to Hosting
+      run: |
+        ssh USER@HOST "cd /public_html && git reset --hard && git pull origin main"
+      env:
+        USER: ${{ secrets.SSH_USER }}
+        HOST: ${{ secrets.SSH_HOST }}
+      if: github.event.ref == 'refs/heads/main'
