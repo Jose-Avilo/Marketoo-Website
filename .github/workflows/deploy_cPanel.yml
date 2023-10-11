@@ -19,5 +19,5 @@ jobs:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
         password: ${{ secrets.FTP_PASSWORD }}
-        local-dir: https://github.com/Jose-Avilo/Marketoo-Website.git
-        remote-dir: public_html
+        local-dir: https://github.com/Jose-Avilo/Marketoo-Website/
+        server-dir: public_html
