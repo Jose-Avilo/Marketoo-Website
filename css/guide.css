@@ -1,0 +1,29 @@
+:root { 
+  --black: #000000;
+  --gray: #7f7f7f;
+  --gray-nurse: #e8e8e8;
+  --guardsman-red: #d50300;
+  --guardsman-red-2: #d60300;
+  --monza: #d5101e;
+  --nobel: #b3b3b3;
+  --quick-silver: #a0a2a5;
+  --science-blue: #0463dd;
+  --sonic-silver: #777777;
+  --white: #ffffff;
+ 
+  --font-size-l: 36px;
+  --font-size-m: 33.2px;
+  --font-size-s: 30px;
+  --font-size-xs: 28px;
+  --font-size-xxs: 25px;
+  --font-size-xxxs: 11.1px;
+  --font-size-xxxxs: 9.5px;
+ 
+  --font-family-cindie_mono_a: "Cindie Mono A", Helvetica;
+  --font-family-cindiemono-a: "CindieMono-A", Helvetica;
+  --font-family-cindiemono_a-regular: "CindieMono A-Regular", Helvetica;
+  --font-family-filmotypegem: "FilmotypeGem", Helvetica;
+  --font-family-filmotypegem-regular: "FilmotypeGem-Regular", Helvetica;
+  --font-family-sfpro_rounded-regular: "SFPro Rounded-Regular", Helvetica;
+  --font-family-sfprorounded-regular: "SF Pro Rounded Regular", Helvetica;
+}
