@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Marketoo App</title>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <meta name='theme-color' content='#000000'>
+    <meta name='msapplication-navbutton-color' content='#000000'>
+    <link rel='icon' type='image/png' href='./img/favicon.png' sizes='192x192'>
+    <link rel='apple-touch-icon-precomposed' sizes='114x114' href='./img/favicon.png'>
+    <link rel='apple-touch-startup-image' href='./img/favicon.png'>
+    <link rel='icon' type='image/png' href='./img/favicon.png'>
+    <meta name='apple-mobile-web-app-capable' content='yes' />
+    <meta name='mobile-web-app-capable' content='yes' />
+    <meta name='apple-mobile-web-app-title' content='Marketoo App'>
+    <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+    <meta name='format-detection' content='telephone=yes'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/guide.css">
+    <link rel="stylesheet" href="./css/default.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar_marketoo">
+        <a class="navbar-brand" href="#"> <img class="logo" src="./img/trazado-280-1@1x.png" height="40"> MARKETOO</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar1">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">INICIO</a>
+                </li>
+                <li class="nav-item"><a class="nav-link" href="./restaurantes.html"> RESTAURANTES </a></li>
+                <li class="nav-item"><a class="nav-link" href="./proveedores.html"> PROVEEDORES </a></li>
+                <li class="nav-item active"><a class="nav-link" href="./productos.html"> PRODUCTOS <span class="sr-only">(current)</span></a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="fixed-bottom d-flex justify-content-center">
+        <button type="button" class="btn btn-primary rounded-pill btn-start btn-fijo mb-2 texto-normal" data-toggle="modal"
+            data-target="#modal-descargar" id="btn-descargar">DESCARGAR</button>
+    </div>
+
+    <div class="container-fluid contenedor">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <p class="display-3 text-center p-1 font-weight-bold titulo-blanco">
+                    ENCUENTRA INGREDIENTES PARA TU RESTAURANTE
+                </p>
+            </div>
+
+
+            <div class="form-row mt-5">
+                <div class="col-md-2 mb-3"></div>
+                <div class="col-md-8 mb-3">
+                    <input type="text" class="form-control input-xl" placeholder="Encuentra" required>
+                </div>
+                <div class="col-md-2 mb-3 d-flex justify-content-center">
+                    <button type="button" class="btn btn-danger btn-circle btn-xl"><i class="fa fa-search"
+                            aria-hidden="true"></i></button>
+                </div>
+            </div>
+
+            <div class="row mt-5">
+            </div>
+            <div class="row mt-5">
+            </div>
+
+            <div class="row text-dark">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/salmon-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Salmón en filete</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/arroz-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Arroz blanco</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/manzanas-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Manzana criolla</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/mantequlla-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Mantequilla</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/lechuga-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Lechuga escarola</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow">
+                        <div class="card-body text-center">
+                            <a href="#">
+                                <img class="card-img-top"
+                                    src="./img/wallnut-1@1x.png"
+                                    alt="">
+                            </a>
+                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Nuez wallnut</p>
+                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+            <div class="row mt-5 d-flex justify-content-center">
+                <p class="display-4 text-center text-uppercase titulo-blanco">
+                    marketoo potencia tu transformación digital
+                </p>
+            </div>
+
+            <div class="row mt-5 d-flex justify-content-center">
+                <p class="h2 text-center font-weight-bold">
+                    Descarga la app y accede a la forma más fácil de explorar nuevos proveedores y de encontrar los
+                    productos que buscas en un solo lugar.
+                </p>
+            </div>
+        </div>
+
+        <div class="container">
+
+            <div class="row mt-5">
+                <div class="col mt-2 mb-3 text-center texto-normal">
+                    <ul class="h1">
+                        <li><a href="https://wa.me/50230047323" target="_blank"
+                                class="text-decoration-none text-light">WHATSAPP</a>
+                        </li> /&nbsp;
+                        <li><a href="https://www.linkedin.com/company/marketoo-app/" target="_blank"
+                                class="text-decoration-none text-light">LINKEDIN</a></li> /&nbsp;
+                        <li><a href="https://www.instagram.com/marketooapp/" target="_blank"
+                                class="text-decoration-none text-light">INSTAGRAM</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal-descargar" tabindex="-1" role="dialog" aria-labelledby="modal-descargarLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modal-descargarLabel">Gracias por tu interés en nuestro servicio</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p class="h6">
+                        Estamos en proceso de ingresar en la Play Store y App Store. <br>
+                        Mientras tanto, indícanos tu correo electrónico y recibirás por esa vía las instrucciones y link
+                        de
+                        descarga.
+                    </p>
+                    <form>
+                        <div class="form-row">
+                            <div class="col-md-12 mb-3">
+                                <label for="email-subscriber font-weight-bold">Email:</label>
+                                <input type="email" class="form-control" id="email-subscriber"
+                                    placeholder="Escribe tu correo electrónico" required>
+                                <div class="text-center">
+                                    ¡Síguenos en nuestras redes y únete a nuestra comunidad!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-md-2 mb-3">
+                            </div>
+                            <div class="col-md-8 mb-3">
+                                <button class="btn btn-primary btn-fijo form-control" type="submit">Enviar</button>
+                            </div>
+                            <div class="col-md-2 mb-3">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+        integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
+        crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/7d0992c4e3.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

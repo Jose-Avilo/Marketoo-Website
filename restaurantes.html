@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Marketoo App</title>
+    <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    <meta name='theme-color' content='#000000'>
+    <meta name='msapplication-navbutton-color' content='#000000'>
+    <link rel='icon' type='image/png' href='./img/favicon.png' sizes='192x192'>
+    <link rel='apple-touch-icon-precomposed' sizes='114x114' href='./img/favicon.png'>
+    <link rel='apple-touch-startup-image' href='./img/favicon.png'>
+    <link rel='icon' type='image/png' href='./img/favicon.png'>
+    <meta name='apple-mobile-web-app-capable' content='yes' />
+    <meta name='mobile-web-app-capable' content='yes' />
+    <meta name='apple-mobile-web-app-title' content='Marketoo App'>
+    <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+    <meta name='format-detection' content='telephone=yes'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+        integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/guide.css">
+    <link rel="stylesheet" href="./css/default.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar_marketoo">
+        <a class="navbar-brand" href="#"> <img class="logo" src="./img/trazado-280-1@1x.png" height="40"> MARKETOO</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar1">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="./index.html">INICIO</a>
+                </li>
+                <li class="nav-item active"><a class="nav-link" href="./restaurantes.html"> RESTAURANTES <span
+                            class="sr-only">(current)</span></a></li>
+                <li class="nav-item"><a class="nav-link" href="./proveedores.html"> PROVEEDORES </a></li>
+                <li class="nav-item"><a class="nav-link" href="./productos.html"> PRODUCTOS </a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="fixed-bottom d-flex justify-content-center">
+        <button type="button" class="btn btn-primary rounded-pill btn-start btn-fijo mb-2 texto-normal" data-toggle="modal"
+            data-target="#modal-descargar" id="btn-descargar">DESCARGAR</button>
+    </div>
+
+    <div class="container-fluid contenedor">
+        <div class="container">
+            <div class="row">
+                <b class="display-4 font-weight-bold text-center titulo-blanco">
+                    LA HERRAMIENTA MÁS AFILADA DE TU RESTAURANTE
+                </b>
+            </div>
+
+
+            <div class="row">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe width="560" height="315"
+                        src="https://www.youtube.com/embed/UYshLVokar4?si=903iaXj-cvGfKPBb&version=3&autoplay=1&controls=0&showinfo=0&loop=1"
+                        title="YouTube video player" frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen class="embed-responsive-item"></iframe>
+                </div>
+            </div>
+
+            <div class="row mt-5">
+                <p class="h1 text-center p-1 texto-normal">
+                    Usa Marketoo para realizar pedidos a tus proveedores en segundos.
+                </p>
+            </div>
+
+            <div class="row mt-5">
+                <p class="h2 color-red texto-normal">
+                    ¡Agiliza tu flujo de trabajo y libera tiempo para dedicarte a tu pasión!
+                </p>
+            </div>
+
+
+            <div class="row mt-5">
+                <p class="h1 text-center texto-normal">
+                    Olvídate de los pedidos en papel, los mensajes de voz y los errores en entregas.
+                </p>
+            </div>
+
+            <div class="row mt-5">
+            </div>
+            <div class="row mt-5">
+                <p class="display-3 text-center text-uppercase titulo-blanco">
+                    Enfócate en crear
+                </p>
+            </div>
+
+
+            <div class="row mt-5">
+                <div id="carousel-pedidos" class="carousel slide" data-ride="carousel">
+
+                    <!-- Indicators -->
+                    <ul class="carousel-indicators mb-0 pb-0">
+                        <li data-target="#carousel-pedidos" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-pedidos" data-slide-to="1"></li>
+                    </ul>
+
+                    <!-- The slideshow -->
+                    <div class="carousel-inner no-padding my-5">
+                        <div class="carousel-item active">
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-01.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">Pedidos rápidos y confiables</h4>
+                                </p>
+
+                            </div>
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-02.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">Reduce errores y desperdicios</h4>
+                                </p>
+
+                            </div>
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-03.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">Ahorra tiempo</h4>
+                                </p>
+
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-04.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">Reúne al equipo</h4>
+                                </p>
+
+                            </div>
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-05.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">Sincronízate con la cadena</h4>
+                                </p>
+
+                            </div>
+                            <div class="col-xs-4 col-sm-4 col-md-4">
+                                <a href="#" class="slider_info">
+                                    <img class="img-fluid card-img-top" src="./img/Carr-Restaurante-06.jpg">
+                                </a>
+                                <p>
+                                <h4 class="text-center">No más post-its en tu cocina</h4>
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="carousel-control-prev" href="#carousel-pedidos" data-slide="prev">
+                        <i class="fa fa-arrow-left" aria-hidden="true"></i>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel-pedidos" data-slide="next">
+                        <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+
+
+
+            <div class="row mt-5">
+                <p class="h1 text-center text-uppercase texto-normal">
+                    Controla y simplifica todo tu proceso en una herramienta sincronizada. Elimina de la lista de
+                    pendientes tus problemas de ineficiencia en el proceso de compras.
+                </p>
+            </div>
+
+            <div class="row mt-5">
+            </div>
+
+
+        </div>
+        <div class="background-image">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 overlay">
+                        <div class="container">
+                            <div class="row mt-5">
+                                <p class="font-weight-bold h1 text-uppercase titulo-negro">
+                                    Encuentra nuevas posibilidades
+                                </p>
+                            </div>
+                            <div class="row mt-5">
+                                <p class="h3">
+                                    Marketoo es la forma más fácil de explorar nuevos proveedores y de encontrar los
+                                    productos que buscas, todo en un solo lugar.
+                                </p>
+                            </div>
+                            <div class="row mt-5">
+                                <div class="col-md-6">
+                                    <div class="card card-body h-100 border-0 font-weight-bold">
+                                        <div class="row mt-5">
+                                            <div class="col-md-6">
+                                                <img src="./img/Cuad-Restaurante-01.jpg" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p class="h4 subtitulo-rojo">Encuentra los productos que buscas</p>
+                                                <p>Encuentra las materias primas e insumos que buscas entre un amplio
+                                                    catálogo.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-body h-100 border-0 font-weight-bold">
+                                        <div class="row mt-5">
+                                            <div class="col-md-6">
+                                                <img src="./img/Cuad-Restaurante-02.jpg" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p class="h4 subtitulo-rojo">Referencias del proveedor</p>
+                                                <p>Valida la calidad de servicio y entrega del proveedor con las
+                                                    calificaciones de otros usuarios.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-body h-100 border-0 font-weight-bold">
+                                        <div class="row mt-5">
+                                            <div class="col-md-6">
+                                                <img src="./img/Cuad-Restaurante-03.jpg" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p class="h4 subtitulo-rojo">Tu estrategia financiera</p>
+                                                <p>Realiza tus negociaciones en Marketoo y selecciona la forma de pago
+                                                    que mejor se adapte a tu
+                                                    organización.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="card card-body h-100 border-0 font-weight-bold">
+                                        <div class="row mt-5">
+                                            <div class="col-md-6">
+                                                <img src="./img/Cuad-Restaurante-04.jpg" class="img-fluid">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <p class="h4 subtitulo-rojo">Accede a más
+                                                    proveedores</p>
+                                                <p>Explora las propuestas de nuevos proveedores e inicia con
+                                                    nosotros tus próximas relaciones comerciales.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-5"></div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row mt-5">
+                <p class="h1 mx-auto d-block text-uppercase titulo-blanco">
+                    Pon tus órdenes en orden
+                </p>
+            </div>
+            <div class="row">
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow bg-gris h-100 d-flex flex-column">
+                        <div class="card-body">
+                            <h1 class="text-light texto-normal">GRATIS</h1>
+                            <div class="col-md-12">
+                                <ul>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Módulo de pedidos
+                                        completo</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Generación de órdenes
+                                        de compra y envío por email</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card-footer border-0">
+                            <h2>USD $25</h2>
+                            <h6>/mes por restaurante (sin impuestos)</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow bg-gris h-100 d-flex flex-column">
+                        <div class="card-body">
+                            <h1 class="text-light texto-normal">ESTÁNDAR</h1>
+                            <div class="col-md-12">
+                                <ul>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Ciclo de
+                                        abastecimiento completo</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Reportería y acceso
+                                        directo a base de datos</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Integración con ERP
+                                    </li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Mensajería completa
+                                        con proveedores y toda la organización</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Vinculación con formas
+                                        de pago</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card-footer border-0">
+                            <h2>USD $49</h2>
+                            <h6>/mes por restaurante (sin impuestos)</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
+                    <div class="card shadow bg-gris h-100 d-flex flex-column">
+                        <div class="card-body">
+                            <h1 class="text-light texto-normal">PREMIUM</h1>
+                            <div class="col-md-12">
+                                <ul>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Todas las
+                                        funcionalidades del plan Estándar</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Acceso a estados de
+                                        cuenta desde aplicación</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Habilitación de modelo
+                                        de abastecimiento por máximos y mínimos</li><br>
+                                    <li class="h5"><i class="fa fa-check" aria-hidden="true"></i> Módulo de inventarios
+                                        y cierres contables</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="card-footer border-0">
+                            <h2>USD $69</h2>
+                            <h6>/mes por restaurante (sin impuestos)</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <p class="h1 text-uppercase text-center titulo-blanco">
+                    ¿Muy ocupado atendiendo a tus comensales? Permítenos facilitarte el trabajo.
+                </p>
+            </div>
+            <div class="row mt-5">
+                <p class="h2 text-center">
+                    Aprovecha los beneficios de nuestro servicio y sorpréndete de lo que podemos hacer por tu negocio.
+                </p>
+            </div>
+            <div class="row mt-5">
+                <div class="col mt-2 mb-3 text-center texto-normal">
+                    <ul class="h1">
+                        <li><a href="https://wa.me/50230047323" target="_blank"
+                                class="text-decoration-none text-light">WHATSAPP</a>
+                        </li> /&nbsp;
+                        <li><a href="https://www.linkedin.com/company/marketoo-app/" target="_blank"
+                                class="text-decoration-none text-light">LINKEDIN</a></li> /&nbsp;
+                        <li><a href="https://www.instagram.com/marketooapp/" target="_blank"
+                                class="text-decoration-none text-light">INSTAGRAM</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="modal-descargar" tabindex="-1" role="dialog" aria-labelledby="modal-descargarLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modal-descargarLabel">Gracias por tu interés en nuestro servicio</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <p class="h6">
+                        Estamos en proceso de ingresar en la Play Store y App Store. <br>
+                        Mientras tanto, indícanos tu correo electrónico y recibirás por esa vía las instrucciones y link
+                        de
+                        descarga.
+                    </p>
+                    <form>
+                        <div class="form-row">
+                            <div class="col-md-12 mb-3">
+                                <label for="email-subscriber font-weight-bold">Email:</label>
+                                <input type="email" class="form-control" id="email-subscriber"
+                                    placeholder="Escribe tu correo electrónico" required>
+                                <div class="text-center">
+                                    ¡Síguenos en nuestras redes y únete a nuestra comunidad!
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="col-md-2 mb-3">
+                            </div>
+                            <div class="col-md-8 mb-3">
+                                <button class="btn btn-primary btn-fijo form-control" type="submit">Enviar</button>
+                            </div>
+                            <div class="col-md-2 mb-3">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+        integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
+        crossorigin="anonymous"></script>
+    <script src="https://use.fontawesome.com/7d0992c4e3.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

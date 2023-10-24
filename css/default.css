@@ -1,0 +1,220 @@
+@font-face {
+    font-family: "CindieMono-A";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/CindieMono-A.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "SFProRounded-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/FontsFree-Net-SF-Pro-Rounded-Regular.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "FilmotypeGem";
+    font-style: normal;
+    font-weight: 1 1000;
+    src: url("../fonts/Filmotype Gem.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "FilmotypeGem-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/SF-Pro-Rounded-Regular.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "CindieMono A-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/CindieMono-A.otf") format("opentype");
+  }
+  @font-face {
+    font-family: "SFPro Rounded-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/FontsFree-Net-SF-Pro-Rounded-Regular.ttf") format("truetype");
+  }
+
+
+.navbar_marketoo {
+    font-family: var(--font-family-cindiemono-a);
+    font-style: normal;
+    background-color: #000 !important;
+    color: #fff;
+    border-bottom: 1px solid red;
+}
+
+.contenedor {
+    background-color: #000 !important;
+    color: #fff;
+}
+
+.contenedor-red {
+    background-color: red !important;
+    color: #fff;
+}
+
+.color-red {
+    color: red !important;
+    text-align: center !important;
+}
+
+.bg-red {
+    background-color: #D5111D !important;
+}
+
+/* Carousel */
+.col-md-4 {
+    display: inline-block;
+    margin-left: -10px;
+}
+
+.col-md-4 img {
+    width: 100%;
+    height: auto;
+}
+
+body .carousel-control-prev-icon,
+body .carousel-indicators li,
+body .carousel-control-next-icon {
+    background-color: #ffff;
+}
+
+span.carousel-control-prev-icon {
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+}
+
+span.carousel-control-next-icon {
+    position: relative;
+    bottom: 40px;
+}
+
+/* End Carousel */
+
+.extra-large-button {
+    font-size: 24px; /* Adjust the font size as needed */
+    padding: 20px 40px; /* Adjust the padding to increase the button's dimensions */
+    border-radius: 10px; /* Adjust the border radius for rounded corners */
+    background-color: #3498db; /* Background color */
+    color: #fff; /* Text color */
+    border: none; /* Remove the border */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    /* Add any additional styles or transitions as desired */
+  }
+  
+
+/* Social Networks */
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.btn-fijo{
+    background-color: #0063E1 !important;
+    padding: 10px 20px;
+}
+
+
+
+
+/* Restaurantes */
+
+.background-image {
+    background-image: url("../img/rect-ngulo-142-1@1x.png"); /* Replace 'your-image.jpg' with your image file path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+.overlay {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 50px;
+    color:#000;
+}
+
+.color-red-normal {
+    color: red !important;
+}
+
+.bg-gris{
+    background-color: #9FA2A5 !important;
+}
+
+
+/* End Restaurantes */
+
+
+
+/* Productos */
+
+.btn-circle.btn-xl {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+.input-xl {
+    width: 80%;
+    height: 50px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+/* End Productos */
+
+
+
+/* Fonts */
+.titulo-blanco {
+    color: var(--white);
+    font-family: var(--font-family-filmotypegem);
+    font-size: 80px;
+    font-style: normal;
+}
+
+
+.titulo-negro {
+    color: var(--black);
+    font-family: var(--font-family-filmotypegem);
+    font-size: 80px;
+    font-style: normal;
+}
+
+
+.subtitulo-rojo {
+    font-family: var(--font-family-cindiemono-a);
+    font-size: var(--font-size-xs);
+    font-style: normal;
+    font-weight: 400;
+    color: red;
+}
+
+.texto-normal {
+    color: var(--white);
+    font-family: var(--font-family-cindiemono-a);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+}

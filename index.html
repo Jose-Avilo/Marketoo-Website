@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Marketoo App</title>
+  <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+  <meta name='theme-color' content='#000000'>
+  <meta name='msapplication-navbutton-color' content='#000000'>
+  <link rel='icon' type='image/png' href='./img/favicon.png' sizes='192x192'>
+  <link rel='apple-touch-icon-precomposed' sizes='114x114' href='./img/favicon.png'>
+  <link rel='apple-touch-startup-image' href='./img/favicon.png'>
+  <link rel='icon' type='image/png' href='./img/favicon.png'>
+  <meta name='apple-mobile-web-app-capable' content='yes' />
+  <meta name='mobile-web-app-capable' content='yes' />
+  <meta name='apple-mobile-web-app-title' content='Marketoo App'>
+  <meta name='apple-mobile-web-app-status-bar-style' content='black'>
+  <meta name='format-detection' content='telephone=yes'>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link rel="stylesheet" href="./css/guide.css">
+  <link rel="stylesheet" href="./css/default.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar_marketoo">
+    <a class="navbar-brand" href="#"> <img class="logo" src="./img/trazado-280-1@1x.png" height="40"> MARKETOO</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbarNav"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar1">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="./index.html">INICIO <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item"><a class="nav-link" href="./restaurantes.html"> RESTAURANTES </a></li>
+        <li class="nav-item"><a class="nav-link" href="./proveedores.html"> PROVEEDORES </a></li>
+        <li class="nav-item"><a class="nav-link" href="./productos.html"> PRODUCTOS </a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="fixed-bottom d-flex justify-content-center">
+    <button type="button" class="btn btn-primary rounded-pill btn-start btn-fijo mb-2 texto-normal" data-toggle="modal"
+      data-target="#modal-descargar" id="btn-descargar">DESCARGAR</button>
+  </div>
+
+  <div class="container-fluid contenedor">
+    <div class="container">
+      <div class="row">
+        <p class="display-4 text-center titulo-blanco">
+          LA APP PARA LA CADENA DE SUMINISTROS DE RESTAURANTES
+        </p>
+      </div>
+
+
+      <div class="row">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item"
+            src="https://www.youtube.com/embed/tQsOR9pB82w?si=UBEzfFh6QSRvS1i2&version=3&autoplay=1&controls=0&showinfo=0&loop=1"
+            title="Marketoo" frameborder="0"
+            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <p class="h1 font-weight-bold text-center subtitulo-rojo">
+          ¡Bienvenido a la nueva forma de administrar el abastecimiento de tu restaurante de la mano de Marketoo!
+        </p>
+      </div>
+
+      <div class="row mt-5">
+        <p class="h2 text-center texto-normal">
+          Simplificamos el proceso de compraventa de materias primas tanto para restaurantes como para proveedores.
+          Nuestra tecnología reduce la carga de trabajo para chefs, propietarios y representantes de ventas.
+        </p>
+      </div>
+
+      <div class="row mt-5">
+        <p class="h1 text-center">
+          ¡Únete gratis al Marketplace para restaurantes más grande de Centroamérica!
+        </p>
+      </div>
+
+      <div class="row mt-5">
+        <div class="row mt-5">
+          <div class="col-md-6 how-img">
+            <img src="./img/grupo-443-1@1x.png" class="img-fluid">
+          </div>
+          <div class="col-md-6">
+            <h1 class="titulo-blanco">PARA RESTAURANTES</h1>
+            <p class="h4">Deja de salir tarde del restaurante por estar enviando pedidos a tu proveedor luego de una
+              jornada larga de trabajo. Trabaja en equipo con tu proveedor usando Marketoo. Haz tus pedidos rápido y
+              vete
+              a dormir temprano.</p>
+            <button type="button" class="btn btn-danger bg-red rounded-pill text-center mt-4">APRENDE MÁS</button>
+          </div>
+        </div>
+
+        <div class="row mt-5">
+          <div class="col-md-6">
+            <h1 class="titulo-blanco">PARA PROVEEDORES</h1>
+            <p class="h4">Seas fabricante o distribuidor, usa Marketoo para ganar nuevos clientes, optimizar tus
+              operaciones y vender más.</p>
+            <button type="button" class="btn btn-danger bg-red rounded-pill text-center mt-4">APRENDE MÁS</button>
+          </div>
+          <div class="col-md-6 how-img">
+            <img src="./img/grupo-445@1x.png" class="img-fluid rounded">
+          </div>
+        </div>
+      </div>
+
+
+      <div class="row mt-5">
+        <div id="carousel-pedidos" class="carousel slide" data-ride="carousel">
+
+          <!-- Indicators -->
+          <ul class="carousel-indicators mb-0 pb-0">
+            <li data-target="#carousel-pedidos" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-pedidos" data-slide-to="1"></li>
+          </ul>
+
+          <!-- The slideshow -->
+          <div class="carousel-inner no-padding my-5">
+            <div class="carousel-item active">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-01.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">No más pedidos a la antigua</h4>
+                </p>
+
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-02.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">Órdenes en vivo</h4>
+                </p>
+
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-03.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">Ahórrate tiempo y dinero</h4>
+                </p>
+
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-04.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">Entorno digital seguro</h4>
+                </p>
+
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-05.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">Gestiona a tu equipo</h4>
+                </p>
+
+              </div>
+              <div class="col-xs-4 col-sm-4 col-md-4">
+                <a href="#" class="slider_info">
+                  <img class="img-fluid card-img-top" src="./img/Carr-Home-06.jpeg">
+                </a>
+                <p>
+                <h4 class="text-center">Diseñado para ser móvil</h4>
+                </p>
+
+              </div>
+            </div>
+          </div>
+
+          <!-- Left and right controls -->
+          <a class="carousel-control-prev" href="#carousel-pedidos" data-slide="prev">
+            <i class="fa fa-arrow-left" aria-hidden="true"></i>
+          </a>
+          <a class="carousel-control-next" href="#carousel-pedidos" data-slide="next">
+            <i class="fa fa-arrow-right" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+
+
+      <div class="row mt-5">
+        <p class="h1 text-center texto-normal">
+          Usa <b class="color-red">Marketoo</b> para hacer eficiente tu proceso de compraventa e integrar todas las
+          fases
+          en un único canal de comunicación
+        </p>
+      </div>
+    </div>
+    <div class="container-fluid contenedor-red">
+      <div class="container">
+        <div class="row mt-5">
+          <img src="./img/integration.png" class="img-fluid mx-auto d-block">
+        </div>
+        <div class="row mt-5">
+          <p class="h1 text-center texto-normal">
+            Con Marketoo premium puedes integrar la app con tu software de gestión de recursos para automatizar tus
+            operaciones.
+          </p>
+        </div>
+        <div class="row mt-5">
+          <p class="h3 text-center font-weight-bold">
+            Sincronizar tu catálogo con tu proveedor o cliente no solo en Marketoo sino también con tu ERP es vital para
+            lograr nuestro objetivo: liberarte tiempo para que agregues valor a tu negocio y aumentes tus ventas
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row mt-5">
+        <p class="h1 mx-auto d-block font-weight-bold">
+          Explora el catálogo de productos
+        </p>
+      </div>
+      <div class="row mt-5">
+        <img src="./img/chef@1x.png" class="img-fluid mx-auto d-block">
+      </div>
+      <div class="row mt-5">
+        <button type="button"
+          class="btn btn-danger bg-red rounded-pill  mx-auto d-block extra-large-button">ENCUENTRA</button>
+      </div>
+
+      <div class="row mt-5">
+        <p class="h1 mx-auto d-block titulo-blanco text-center">
+          Ahorra tiempo. Ahorra dinero. Crea valor.
+        </p>
+      </div>
+      <div class="row mt-5">
+        <p class="h1 mx-auto d-block font-weight-bold text-center">
+          Aprovecha los beneficios de nuestro servicio y sorpréndete de lo que podemos hacer por tu negocio.
+        </p>
+      </div>
+
+      <br><br>
+      <div class="row mt-5">
+        <div class="col mt-2 mb-3 text-center texto-normal">
+          <ul class="h1">
+            <li><a href="https://wa.me/50230047323" target="_blank" class="text-decoration-none text-light">WHATSAPP</a>
+            </li> /&nbsp;
+            <li><a href="https://www.linkedin.com/company/marketoo-app/" target="_blank"
+                class="text-decoration-none text-light">LINKEDIN</a></li> /&nbsp;
+            <li><a href="https://www.instagram.com/marketooapp/" target="_blank"
+                class="text-decoration-none text-light">INSTAGRAM</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <!-- Modal -->
+  <div class="modal fade" id="modal-descargar" tabindex="-1" role="dialog" aria-labelledby="modal-descargarLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="modal-descargarLabel">Gracias por tu interés en nuestro servicio</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <p class="h6">
+            Estamos en proceso de ingresar en la Play Store y App Store. <br>
+            Mientras tanto, indícanos tu correo electrónico y recibirás por esa vía las instrucciones y link de
+            descarga.
+          </p>
+          <form>
+            <div class="form-row">
+              <div class="col-md-12 mb-3">
+                <label for="email-subscriber font-weight-bold">Email:</label>
+                <input type="email" class="form-control" id="email-subscriber"
+                  placeholder="Escribe tu correo electrónico" required>
+                <div class="text-center">
+                  ¡Síguenos en nuestras redes y únete a nuestra comunidad!
+                </div>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-2 mb-3">
+              </div>
+              <div class="col-md-8 mb-3">
+                <button class="btn btn-primary btn-fijo form-control" type="submit">Enviar</button>
+              </div>
+              <div class="col-md-2 mb-3">
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"
+    integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+"
+    crossorigin="anonymous"></script>
+  <script src="https://use.fontawesome.com/7d0992c4e3.js"></script>
+  <script src="./js/main.js"></script>
+</body>
+
+</html>
