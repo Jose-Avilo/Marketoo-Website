@@ -41,7 +41,7 @@
     font-style: normal;
     background-color: #000 !important;
     color: #fff;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid black;
 }
 
 .contenedor {
@@ -63,45 +63,16 @@
     background-color: #D5111D !important;
 }
 
-/* Carousel */
-.col-md-4 {
-    display: inline-block;
-    margin-left: -10px;
-}
 
-.col-md-4 img {
-    width: 100%;
-    height: auto;
-}
-
-body .carousel-control-prev-icon,
-body .carousel-indicators li,
-body .carousel-control-next-icon {
-    background-color: #ffff;
-}
-
-span.carousel-control-prev-icon {
-    position: relative;
-    bottom: 40px;
-    right: 40px;
-}
-
-span.carousel-control-next-icon {
-    position: relative;
-    bottom: 40px;
-}
-
-/* End Carousel */
 
 .extra-large-button {
-    font-size: 24px; /* Adjust the font size as needed */
-    padding: 20px 40px; /* Adjust the padding to increase the button's dimensions */
-    border-radius: 10px; /* Adjust the border radius for rounded corners */
-    background-color: #3498db; /* Background color */
-    color: #fff; /* Text color */
-    border: none; /* Remove the border */
-    cursor: pointer; /* Add a pointer cursor on hover */
-    /* Add any additional styles or transitions as desired */
+    font-size: 24px; 
+    padding: 20px 40px; 
+    border-radius: 10px;
+    background-color: #3498db; 
+    color: #fff;
+    border: none;
+    cursor: pointer;
   }
   
 
@@ -127,7 +98,7 @@ li {
 /* Restaurantes */
 
 .background-image {
-    background-image: url("../img/rect-ngulo-142-1@1x.png"); /* Replace 'your-image.jpg' with your image file path */
+    background-image: url("../img/rect-ngulo-142-1@1x.png");
     background-size: cover;
     background-repeat: no-repeat;
     height: auto;
@@ -190,7 +161,7 @@ li {
 .titulo-blanco {
     color: var(--white);
     font-family: var(--font-family-filmotypegem);
-    font-size: 80px;
+    font-weight: 800;
     font-style: normal;
 }
 
@@ -198,7 +169,7 @@ li {
 .titulo-negro {
     color: var(--black);
     font-family: var(--font-family-filmotypegem);
-    font-size: 80px;
+    font-weight: 800;
     font-style: normal;
 }
 
@@ -215,6 +186,132 @@ li {
     color: var(--white);
     font-family: var(--font-family-cindiemono-a);
     font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.texto-normal-pro-rounded {
+    color: var(--white);
+    font-family: var(--font-family-sfpro_rounded-regular);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.texto-normal-black-pro-rounded {
+    color: var(--black);
+    font-family: var(--font-family-sfpro_rounded-regular);
+    font-size: var(--font-size-s);
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+.border-radius-carousel {
+    border-radius: 20px !important;
+}
+
+
+/* Carousel */
+.col-md-4 {
+    display: inline-block;
+    margin-left: -10px;
+}
+
+.col-md-4 img {
+    width: 100%;
+    height: auto;
+}
+
+body .carousel-control-prev-icon,
+body .carousel-indicators li,
+body .carousel-control-next-icon {
+    background-color: #ffff;
+}
+
+span.carousel-control-prev-icon {
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+}
+
+span.carousel-control-next-icon {
+    position: relative;
+    bottom: 40px;
+}
+
+/* End Carousel */
+
+
+
+@media (min-width: 767px) {
+    .home-desktop {
+      display: none; /* Hide the button on screens smaller than 768 pixels */
+    }
+}
+
+
+.spacing-60{
+    line-height:60px;
+}
+
+.spacing-45{
+    line-height:45px;
+}
+
+
+.spacing-30{
+    line-height:30px;
+}
+
+.spacing-35{
+    line-height:35px;
+}
+
+.spacing-110{
+    line-height:110px;
+}
+
+.spacing-70{
+    line-height:70px;
+}
+
+.spacing-40{
+    line-height:40px;
+}
+
+
+.btn-red-rounded {
+    width: 280px;
+    height: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.btn-descargar {
+    border-radius: 100px !important;
+}
+
+.border-radius-30{
+    border-radius: 30px;
+}
+
+
+.btn-red-rounded-xs {
+    width: 155px;
+    height: 40px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+
+
+.texto-normal-black-pro-rounded-17 {
+    color: var(--black);
+    font-family: var(--font-family-sfpro_rounded-regular);
+    font-size: 17px;
     font-style: normal;
     font-weight: 400;
 }

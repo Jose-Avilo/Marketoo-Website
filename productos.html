@@ -24,7 +24,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar_marketoo">
-        <a class="navbar-brand" href="#"> <img class="logo" src="./img/trazado-280-1@1x.png" height="40"> MARKETOO</a>
+        <a class="navbar-brand titulo-blanco" href="#" style="font-size: 30px;"> MARKETOO</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -36,20 +36,21 @@
                 </li>
                 <li class="nav-item"><a class="nav-link" href="./restaurantes.html"> RESTAURANTES </a></li>
                 <li class="nav-item"><a class="nav-link" href="./proveedores.html"> PROVEEDORES </a></li>
-                <li class="nav-item active"><a class="nav-link" href="./productos.html"> PRODUCTOS <span class="sr-only">(current)</span></a></li>
+                <li class="nav-item active"><a class="nav-link" href="./productos.html"> PRODUCTOS <span
+                            class="sr-only">(current)</span></a></li>
             </ul>
         </div>
     </nav>
 
     <div class="fixed-bottom d-flex justify-content-center">
-        <button type="button" class="btn btn-primary rounded-pill btn-start btn-fijo mb-2 texto-normal" data-toggle="modal"
-            data-target="#modal-descargar" id="btn-descargar">DESCARGAR</button>
+        <button type="button" class="btn btn-primary rounded-pill btn-start btn-fijo mb-2 texto-normal btn-descargar"
+            data-toggle="modal" data-target="#modal-descargar" id="btn-descargar">DESCARGAR</button>
     </div>
 
     <div class="container-fluid contenedor">
         <div class="container">
             <div class="row d-flex justify-content-center">
-                <p class="display-3 text-center p-1 font-weight-bold titulo-blanco">
+                <p class="display-4 text-left font-weight-bold titulo-blanco">
                     ENCUENTRA INGREDIENTES PARA TU RESTAURANTE
                 </p>
             </div>
@@ -57,13 +58,20 @@
 
             <div class="form-row mt-5">
                 <div class="col-md-2 mb-3"></div>
-                <div class="col-md-8 mb-3">
+                <div class="col-md-10 mb-3" style="display: flex; align-items: center;">
                     <input type="text" class="form-control input-xl" placeholder="Encuentra" required>
-                </div>
-                <div class="col-md-2 mb-3 d-flex justify-content-center">
-                    <button type="button" class="btn btn-danger btn-circle btn-xl"><i class="fa fa-search"
+                    <button type="button" class="btn btn-danger btn-red-rounded-xs btn-circle btn-xl ml-2"><i class="fa fa-search"
                             aria-hidden="true"></i></button>
                 </div>
+            </div>
+            <div class="form-row mt-5">
+                <div class="col-md-4 mb-3"></div>
+                <div class="col-md-4 mb-3" style="display: flex; align-items: center;">
+                    <select class="form-control input-xl">
+                        <option value="" disabled selected>Categoría</option>
+                    </select>
+                </div>
+                <div class="col-md-4 mb-3"></div>
             </div>
 
             <div class="row mt-5">
@@ -73,80 +81,68 @@
 
             <div class="row text-dark">
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/salmon-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/salmon-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Salmón en filete</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Salmón en filete</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/arroz-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/arroz-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Arroz blanco</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Arroz blanco</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/manzanas-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/manzanas-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Manzana criolla</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Manzana criolla</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/mantequlla-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/mantequlla-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Mantequilla</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Mantequilla</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/lechuga-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/lechuga-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Lechuga escarola</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Lechuga escarola</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mt-4">
-                    <div class="card shadow">
+                    <div class="card shadow border-radius-30">
                         <div class="card-body text-center">
                             <a href="#">
-                                <img class="card-img-top"
-                                    src="./img/wallnut-1@1x.png"
-                                    alt="">
+                                <img class="card-img-top" src="./img/wallnut-1@1x.png" alt="">
                             </a>
-                            <p class="h5 text-center font-weight-bold text-uppercase mt-3">Nuez wallnut</p>
-                            <a class="btn btn-danger" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
+                            <p class="h5 text-left font-weight-bold text-uppercase mt-3 texto-normal-black-pro-rounded-17">Nuez wallnut</p>
+                            <a class="btn btn-danger btn-red-rounded-xs" href="#" role="button">&nbsp;&nbsp;Ver&nbsp;&nbsp;</a>
                         </div>
                     </div>
                 </div>
@@ -158,13 +154,13 @@
 
 
             <div class="row mt-5 d-flex justify-content-center">
-                <p class="display-4 text-center text-uppercase titulo-blanco">
+                <p class="display-4 text-center text-uppercase titulo-blanco spacing-70" style="font-size: 70px;">
                     marketoo potencia tu transformación digital
                 </p>
             </div>
 
             <div class="row mt-5 d-flex justify-content-center">
-                <p class="h2 text-center font-weight-bold">
+                <p class="h2 text-center font-weight-bold spacing-40" style="font-size: 35px;">
                     Descarga la app y accede a la forma más fácil de explorar nuevos proveedores y de encontrar los
                     productos que buscas en un solo lugar.
                 </p>
@@ -174,18 +170,17 @@
         <div class="container">
 
             <div class="row mt-5">
-                <div class="col mt-2 mb-3 text-center texto-normal">
-                    <ul class="h1">
-                        <li><a href="https://wa.me/50230047323" target="_blank"
-                                class="text-decoration-none text-light">WHATSAPP</a>
-                        </li> /&nbsp;
-                        <li><a href="https://www.linkedin.com/company/marketoo-app/" target="_blank"
-                                class="text-decoration-none text-light">LINKEDIN</a></li> /&nbsp;
-                        <li><a href="https://www.instagram.com/marketooapp/" target="_blank"
-                                class="text-decoration-none text-light">INSTAGRAM</a></li>
-                    </ul>
+                <div class="col mt-2 mb-3 text-center texto-normal" style="font-size: 25px;">
+                  <ul>
+                    <li><a href="https://wa.me/50230047323" target="_blank" class="text-decoration-none text-light">WHATSAPP</a>
+                    </li> /&nbsp;
+                    <li><a href="https://www.linkedin.com/company/marketoo-app/" target="_blank"
+                        class="text-decoration-none text-light">LINKEDIN</a></li> /&nbsp;
+                    <li><a href="https://www.instagram.com/marketooapp/" target="_blank"
+                        class="text-decoration-none text-light">INSTAGRAM</a></li>
+                  </ul>
                 </div>
-            </div>
+              </div>
         </div>
     </div>
 
@@ -235,7 +230,7 @@
     </div>
 
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"
-    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
         crossorigin="anonymous"></script>
